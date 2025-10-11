@@ -28,8 +28,9 @@ etree.SubElement(channel, "language").text = "en-us"
 etree.SubElement(channel, "lastBuildDate").text = datetime.utcnow().strftime("%a, %d %b %Y %H:%M:%S GMT")
 
 item = etree.SubElement(channel, "item")
-etree.SubElement(item, "title").text = chart
+etree.SubElement(item, "title").text = chart  # ✅ Embed chart here for dlvr.it
 etree.SubElement(item, "link").text = "https://gdom0037.github.io/nhl-standings/standings.txt"
+etree.SubElement(item, "description").text = f"Updated NHL standings — {datetime.utcnow().isoformat()}"
 etree.SubElement(item, "pubDate").text = datetime.utcnow().strftime("%a, %d %b %Y %H:%M:%S GMT")
 
 # Write to feed.xml
