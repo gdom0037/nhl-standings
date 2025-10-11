@@ -3,13 +3,13 @@
   <channel>
     <title>GageBot NHL Standings Feed</title>
     <link>https://gage.codes/nhl-standings/</link>
-    <description>Daily NHL standings updates — 2025-10-11T04:09:04.440896</description>
+    <description>Daily NHL standings updates — 2025-10-11T04:13:34.013389</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Oct 2025 04:09:04 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Oct 2025 04:13:34 GMT</lastBuildDate>
     <item>
       <title>🏒 NHL Standings
 ---------------------
-⚠️ Error parsing line: 🏒 Metropolitan Division Standings (3-2-1-0)
+🏒 Metropolitan Division Standings (3-2-1-0)
 ⚠️ Error parsing line: {'default': 'Pittsburgh Penguins', 'fr': 'Penguins de Pittsburgh'} – 6 pts (1.0)
 ⚠️ Error parsing line: {'default': 'Carolina Hurricanes', 'fr': 'Hurricanes de la Caroline'} – 3 pts (1.0)
 ⚠️ Error parsing line: {'default': 'New York Rangers', 'fr': 'Rangers de New York'} – 3 pts (0.5)
@@ -18,8 +18,7 @@
 ⚠️ Error parsing line: {'default': 'Philadelphia Flyers', 'fr': 'Flyers de Philadelphie'} – 0 pts (0.0)
 ⚠️ Error parsing line: {'default': 'Washington Capitals', 'fr': 'Capitals de Washington'} – 0 pts (0.0)
 ⚠️ Error parsing line: {'default': 'New Jersey Devils', 'fr': 'Devils du New Jersey'} – 0 pts (0.0)
-⚠️ Error parsing line: 
-⚠️ Error parsing line: 🏒 Central Division Standings (3-2-1-0)
+🏒 Central Division Standings (3-2-1-0)
 ⚠️ Error parsing line: {'default': 'Colorado Avalanche', 'fr': 'Avalanche du Colorado'} – 6 pts (1.0)
 ⚠️ Error parsing line: {'default': 'Minnesota Wild', 'fr': 'Wild du Minnesota'} – 3 pts (1.0)
 ⚠️ Error parsing line: {'default': 'Dallas Stars', 'fr': 'Stars de Dallas'} – 3 pts (1.0)
@@ -28,8 +27,7 @@
 ⚠️ Error parsing line: {'default': 'Winnipeg Jets', 'fr': 'Jets de Winnipeg'} – 0 pts (0.0)
 ⚠️ Error parsing line: {'default': 'Utah Mammoth', 'fr': "Mammoth de l'Utah"} – 0 pts (0.0)
 ⚠️ Error parsing line: {'default': 'St. Louis Blues', 'fr': 'Blues de St. Louis'} – 0 pts (0.0)
-⚠️ Error parsing line: 
-⚠️ Error parsing line: 🏒 Atlantic Division Standings (3-2-1-0)
+🏒 Atlantic Division Standings (3-2-1-0)
 ⚠️ Error parsing line: {'default': 'Florida Panthers', 'fr': 'Panthers de la Floride'} – 6 pts (1.0)
 ⚠️ Error parsing line: {'default': 'Boston Bruins', 'fr': 'Bruins de Boston'} – 5 pts (0.833)
 ⚠️ Error parsing line: {'default': 'Toronto Maple Leafs', 'fr': 'Maple Leafs de Toronto'} – 3 pts (1.0)
@@ -38,8 +36,7 @@
 ⚠️ Error parsing line: {'default': 'Tampa Bay Lightning', 'fr': 'Lightning de Tampa Bay'} – 0 pts (0.0)
 ⚠️ Error parsing line: {'default': 'Detroit Red Wings', 'fr': 'Red Wings de Detroit'} – 0 pts (0.0)
 ⚠️ Error parsing line: {'default': 'Buffalo Sabres', 'fr': 'Sabres de Buffalo'} – 0 pts (0.0)
-⚠️ Error parsing line: 
-⚠️ Error parsing line: 🏒 Pacific Division Standings (3-2-1-0)
+🏒 Pacific Division Standings (3-2-1-0)
 ⚠️ Error parsing line: {'default': 'Vegas Golden Knights', 'fr': 'Golden Knights de Vegas'} – 3 pts (0.5)
 ⚠️ Error parsing line: {'default': 'Vancouver Canucks', 'fr': 'Canucks de Vancouver'} – 3 pts (1.0)
 ⚠️ Error parsing line: {'default': 'Seattle Kraken', 'fr': 'Kraken de Seattle'} – 3 pts (1.0)
@@ -48,8 +45,7 @@
 ⚠️ Error parsing line: {'default': 'Edmonton Oilers', 'fr': "Oilers d'Edmonton"} – 1 pts (0.333)
 ⚠️ Error parsing line: {'default': 'San Jose Sharks', 'fr': 'Sharks de San Jose'} – 1 pts (0.333)
 ⚠️ Error parsing line: {'default': 'Anaheim Ducks', 'fr': "Ducks d'Anaheim"} – 0 pts (0.0)
-⚠️ Error parsing line: 
-⚠️ Error parsing line: 🏒 Eastern Conference Standings (3-2-1-0)
+🏒 Eastern Conference Standings (3-2-1-0)
 ⚠️ Error parsing line: {'default': 'Pittsburgh Penguins', 'fr': 'Penguins de Pittsburgh'} – 6 pts (1.0)
 ⚠️ Error parsing line: {'default': 'Florida Panthers', 'fr': 'Panthers de la Floride'} – 6 pts (1.0)
 ⚠️ Error parsing line: {'default': 'Boston Bruins', 'fr': 'Bruins de Boston'} – 5 pts (0.833)
@@ -66,8 +62,7 @@
 ⚠️ Error parsing line: {'default': 'New Jersey Devils', 'fr': 'Devils du New Jersey'} – 0 pts (0.0)
 ⚠️ Error parsing line: {'default': 'Detroit Red Wings', 'fr': 'Red Wings de Detroit'} – 0 pts (0.0)
 ⚠️ Error parsing line: {'default': 'Buffalo Sabres', 'fr': 'Sabres de Buffalo'} – 0 pts (0.0)
-⚠️ Error parsing line: 
-⚠️ Error parsing line: 🏒 Western Conference Standings (3-2-1-0)
+🏒 Western Conference Standings (3-2-1-0)
 ⚠️ Error parsing line: {'default': 'Colorado Avalanche', 'fr': 'Avalanche du Colorado'} – 6 pts (1.0)
 ⚠️ Error parsing line: {'default': 'Vegas Golden Knights', 'fr': 'Golden Knights de Vegas'} – 3 pts (0.5)
 ⚠️ Error parsing line: {'default': 'Minnesota Wild', 'fr': 'Wild du Minnesota'} – 3 pts (1.0)
@@ -84,8 +79,7 @@
 ⚠️ Error parsing line: {'default': 'Utah Mammoth', 'fr': "Mammoth de l'Utah"} – 0 pts (0.0)
 ⚠️ Error parsing line: {'default': 'Anaheim Ducks', 'fr': "Ducks d'Anaheim"} – 0 pts (0.0)
 ⚠️ Error parsing line: {'default': 'St. Louis Blues', 'fr': 'Blues de St. Louis'} – 0 pts (0.0)
-⚠️ Error parsing line: 
-⚠️ Error parsing line: 🏒 League Standings (3-2-1-0)
+🏒 League Standings (3-2-1-0)
 ⚠️ Error parsing line: {'default': 'Pittsburgh Penguins', 'fr': 'Penguins de Pittsburgh'} – 6 pts (1.0)
 ⚠️ Error parsing line: {'default': 'Colorado Avalanche', 'fr': 'Avalanche du Colorado'} – 6 pts (1.0)
 ⚠️ Error parsing line: {'default': 'Florida Panthers', 'fr': 'Panthers de la Floride'} – 6 pts (1.0)
@@ -118,11 +112,10 @@
 ⚠️ Error parsing line: {'default': 'Detroit Red Wings', 'fr': 'Red Wings de Detroit'} – 0 pts (0.0)
 ⚠️ Error parsing line: {'default': 'Buffalo Sabres', 'fr': 'Sabres de Buffalo'} – 0 pts (0.0)
 ⚠️ Error parsing line: {'default': 'St. Louis Blues', 'fr': 'Blues de St. Louis'} – 0 pts (0.0)
-⚠️ Error parsing line: 
 ---------------------</title>
       <link>https://gage.codes/nhl-standings/standings.txt</link>
       <description>Full standings chart embedded in title for dlvr.it</description>
-      <pubDate>Sat, 11 Oct 2025 04:09:04 GMT</pubDate>
+      <pubDate>Sat, 11 Oct 2025 04:13:34 GMT</pubDate>
     </item>
   </channel>
 </rss>
