@@ -1,5 +1,6 @@
 from datetime import datetime
 from lxml import etree
+import ast
 
 # Read standings
 try:
@@ -12,7 +13,13 @@ except FileNotFoundError:
 # Format as chart
 chart = "🏒 NHL Standings\n---------------------\n"
 for line in lines:
-    chart += line.strip() + "\n"
+    try:
+        team_data = ast.literal_eval(line.strip())
+        name = team_data.get("default", "Unknown Team")
+        points = team_data.get("points", "0 pts")
+        chart += f"{name} – {points}\n"
+    except Exception as e:
+        chart += f"⚠️ Error parsing line: {line.strip()}\n"
 chart += "---------------------"
 
 print("✅ Generated chart:")
