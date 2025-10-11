@@ -3,13 +3,14 @@ name: Update RSS Feed
 on:
   schedule:
     - cron: '0 5 * * *'  # Runs daily at 5 AM UTC
-  workflow_dispatch:
+  workflow_dispatch:      # Allows manual triggering
 
 jobs:
   update-feed:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v3
 
       - name: Set up Python
@@ -20,13 +21,13 @@ jobs:
       - name: Install dependencies
         run: pip install lxml
 
-      - name: Generate feed.xml
+      - name: Run update_feed.py
         run: python update_feed.py
 
-      - name: Commit and push
+      - name: Commit and push updated feed.xml
         run: |
           git config user.name "GageBot"
           git config user.email "gagebot@example.com"
           git add feed.xml
-          git commit -m "Auto-update feed.xml with latest standings"
+          git commit -m "Auto-update feed.xml with latest standings" || echo "No changes to commit"
           git push
