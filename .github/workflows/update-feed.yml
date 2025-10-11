@@ -3,7 +3,7 @@ name: Update RSS Feed
 on:
   schedule:
     - cron: '0 5 * * *'  # Runs daily at 5 AM UTC
-  workflow_dispatch:      # Allows manual triggering
+  workflow_dispatch:      # Allows manual triggering from GitHub UI
 
 jobs:
   update-feed:
@@ -22,12 +22,20 @@ jobs:
         run: pip install lxml
 
       - name: Run update_feed.py
-        run: python update_feed.py
+        run: |
+          echo "📄 Running update_feed.py..."
+          python update_feed.py
+
+      - name: Show feed.xml contents
+        run: |
+          echo "📄 Contents of feed.xml:"
+          cat feed.xml
 
       - name: Commit and push updated feed.xml
         run: |
           git config user.name "GageBot"
           git config user.email "gagebot@example.com"
+          git status
           git add feed.xml
-          git commit -m "Auto-update feed.xml with latest standings" || echo "No changes to commit"
+          git commit -m "Auto-update feed.xml with latest standings" || echo "⚠️ No changes to commit"
           git push
