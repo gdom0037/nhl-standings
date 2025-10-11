@@ -23,7 +23,7 @@ rss = etree.Element("rss", version="2.0")
 channel = etree.SubElement(rss, "channel")
 etree.SubElement(channel, "title").text = "GageBot NHL Standings Feed"
 etree.SubElement(channel, "link").text = "https://gdom0037.github.io/nhl-standings/"
-etree.SubElement(channel, "description").text = "Daily NHL standings updates from GageBot"
+etree.SubElement(channel, "description").text = f"Daily NHL standings updates — {datetime.utcnow().isoformat()}"
 etree.SubElement(channel, "language").text = "en-us"
 etree.SubElement(channel, "lastBuildDate").text = datetime.utcnow().strftime("%a, %d %b %Y %H:%M:%S GMT")
 
