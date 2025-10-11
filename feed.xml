@@ -2,10 +2,10 @@
 <rss version="2.0">
   <channel>
     <title>GageBot NHL Standings Feed</title>
-    <link>https://gdom0037.github.io/nhl-standings/</link>
-    <description>Daily NHL standings updates — 2025-10-11T03:51:57.369218</description>
+    <link>https://gage.codes/nhl-standings/</link>
+    <description>Daily NHL standings updates — 2025-10-11T03:59:06.516623</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Oct 2025 03:51:57 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Oct 2025 03:59:06 GMT</lastBuildDate>
     <item>
       <title>🏒 NHL Standings
 ---------------------
@@ -120,9 +120,9 @@
 {'default': 'St. Louis Blues', 'fr': 'Blues de St. Louis'} – 0 pts (0.0)
 
 ---------------------</title>
-      <link>https://gdom0037.github.io/nhl-standings/standings.txt</link>
-      <description>Updated NHL standings — 2025-10-11T03:51:57.369266</description>
-      <pubDate>Sat, 11 Oct 2025 03:51:57 GMT</pubDate>
+      <link>https://gage.codes/nhl-standings/standings.txt</link>
+      <description>Full standings chart embedded in title for dlvr.it</description>
+      <pubDate>Sat, 11 Oct 2025 03:59:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
