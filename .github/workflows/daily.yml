@@ -1,0 +1,24 @@
+name: Daily NHL Standings
+
+on:
+  schedule:
+    - cron: '0 9 * * *'  # 5 AM Eastern = 9 AM UTC
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run script
+        run: python nhl_standings.py
