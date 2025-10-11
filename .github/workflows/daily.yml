@@ -12,8 +12,6 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -26,12 +24,10 @@ jobs:
       - name: Run script
         run: python nhl_standings.py
 
-      - name: Commit updated standings
-        run: |
-          git config --global user.name "GageBot"
-          git config --global user.email "gage@example.com"
-          git add standings.txt || echo "No changes to add"
-          git commit -m "Daily NHL standings update" || echo "Nothing to commit"
-          git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit standings.txt using EndBug
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: GageBot
+          author_email: gage@example.com
+          message: Daily NHL standings update
+          add: standings.txt
