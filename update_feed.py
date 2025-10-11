@@ -1,6 +1,7 @@
 from datetime import datetime
 from lxml import etree
 import ast
+import re
 
 # Read standings
 try:
@@ -16,16 +17,29 @@ for line in lines:
     line = line.strip()
     if not line:
         continue
+
+    # Preserve headers or notes
     if not line.startswith("{"):
-        chart += line + "\n"  # Preserve headers or notes
+        chart += line + "\n"
         continue
+
+    # Try parsing as dict
     try:
         team_data = ast.literal_eval(line)
         name = team_data.get("default", "Unknown Team")
         points = team_data.get("points", "0 pts")
         chart += f"{name} – {points}\n"
-    except Exception as e:
-        chart += f"⚠️ Error parsing line: {line}\n"
+    except Exception:
+        # Fallback: try regex extraction
+        name_match = re.search(r"'default':\s*'([^']+)'", line)
+        points_match = re.search(r"'points':\s*'([^']+)'", line)
+        if name_match and points_match:
+            name = name_match.group(1)
+            points = points_match.group(1)
+            chart += f"{name} – {points}\n"
+        else:
+            chart += f"⚠️ Unreadable line: {line}\n"
+
 chart += "---------------------"
 
 print("✅ Generated chart:")
@@ -41,7 +55,7 @@ etree.SubElement(channel, "language").text = "en-us"
 etree.SubElement(channel, "lastBuildDate").text = datetime.utcnow().strftime("%a, %d %b %Y %H:%M:%S GMT")
 
 item = etree.SubElement(channel, "item")
-etree.SubElement(item, "title").text = chart  # ✅ Embed full chart here for dlvr.it
+etree.SubElement(item, "title").text = chart
 etree.SubElement(item, "link").text = "https://gage.codes/nhl-standings/standings.txt"
 etree.SubElement(item, "description").text = "Full standings chart embedded in title for dlvr.it"
 etree.SubElement(item, "pubDate").text = datetime.utcnow().strftime("%a, %d %b %Y %H:%M:%S GMT")
