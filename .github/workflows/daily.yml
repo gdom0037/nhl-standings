@@ -24,13 +24,35 @@ jobs:
       - name: Run script
         run: python nhl_standings.py
 
-      - name: Commit updated standings
-        env:
-          GH_PAT: ${{ secrets.GH_PAT }}
-        run: |
-          git config --global user.name "GageBot"
-          git config --global user.email "gage@example.com"
-          git remote set-url origin https://x-access-token:${GH_PAT}@github.com/${{ github.repository }}
-          git add standings.txt || echo "No changes to add"
-          git commit -m "Daily NHL standings update" || echo "Nothing to commit"
-          git push || echo "Push failed"
+      - name: Commit standings.txt using GitHub Script
+        uses: actions/github-script@v6
+        with:
+          github-token: ${{ secrets.GH_PAT }}
+          script: |
+            const fs = require('fs');
+            const content = fs.readFileSync('standings.txt', 'utf8');
+            const path = 'standings.txt';
+
+            const { data: existingFile } = await github.rest.repos.getContent({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              path: path,
+              ref: context.ref
+            }).catch(() => ({ data: null }));
+
+            await github.rest.repos.createOrUpdateFileContents({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              path: path,
+              message: 'Daily NHL standings update',
+              content: Buffer.from(content).toString('base64'),
+              sha: existingFile?.sha,
+              committer: {
+                name: 'GageBot',
+                email: 'gage@example.com'
+              },
+              author: {
+                name: 'GageBot',
+                email: 'gage@example.com'
+              }
+            });
