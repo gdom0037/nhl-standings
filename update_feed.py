@@ -13,13 +13,19 @@ except FileNotFoundError:
 # Format as chart
 chart = "🏒 NHL Standings\n---------------------\n"
 for line in lines:
+    line = line.strip()
+    if not line:
+        continue
+    if not line.startswith("{"):
+        chart += line + "\n"  # Preserve headers or notes
+        continue
     try:
-        team_data = ast.literal_eval(line.strip())
+        team_data = ast.literal_eval(line)
         name = team_data.get("default", "Unknown Team")
         points = team_data.get("points", "0 pts")
         chart += f"{name} – {points}\n"
     except Exception as e:
-        chart += f"⚠️ Error parsing line: {line.strip()}\n"
+        chart += f"⚠️ Error parsing line: {line}\n"
 chart += "---------------------"
 
 print("✅ Generated chart:")
