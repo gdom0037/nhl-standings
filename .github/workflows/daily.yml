@@ -22,3 +22,10 @@ jobs:
 
       - name: Run script
         run: python nhl_standings.py
+      - name: Commit updated standings
+        run: |
+          git config --global user.name "GageBot"
+          git config --global user.email "gage@example.com"
+          git add standings.txt
+          git commit -m "Daily NHL standings update"
+          git push
