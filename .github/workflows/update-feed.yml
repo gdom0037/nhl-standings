@@ -3,7 +3,7 @@ name: Update RSS Feed
 on:
   schedule:
     - cron: '0 5 * * *'  # Runs daily at 5 AM UTC
-  workflow_dispatch:      # Allows manual triggering
+  workflow_dispatch:
 
 jobs:
   update-feed:
@@ -20,6 +20,11 @@ jobs:
 
       - name: Install dependencies
         run: pip install lxml
+
+      - name: Generate latest standings
+        run: |
+          echo "📊 Running nhl_standings.py..."
+          python nhl_standings.py
 
       - name: Run update_feed.py
         run: |
