@@ -20,13 +20,11 @@ for line in lines:
     if not line:
         continue
 
-    # Detect division header
     if "Division Standings" in line:
         current_division = line
         divisions[current_division] = []
         continue
 
-    # Extract dictionary portion
     dict_match = re.match(r"(\{.*?\})", line)
     if not dict_match or current_division is None:
         continue
@@ -53,7 +51,6 @@ etree.SubElement(channel, "description").text = f"Daily NHL standings updates â€
 etree.SubElement(channel, "language").text = "en-us"
 etree.SubElement(channel, "lastBuildDate").text = datetime.utcnow().strftime("%a, %d %b %Y %H:%M:%S GMT")
 
-# Add one item per division
 for division, teams in divisions.items():
     chart = f"{division}\n---------------------\n"
     chart += "\n".join(teams)
@@ -65,7 +62,6 @@ for division, teams in divisions.items():
     etree.SubElement(item, "description").text = f"{division} standings with points percentage"
     etree.SubElement(item, "pubDate").text = datetime.utcnow().strftime("%a, %d %b %Y %H:%M:%S GMT")
 
-# Write to feed.xml
 try:
     with open("feed.xml", "wb") as f:
         f.write(etree.tostring(rss, pretty_print=True, xml_declaration=True, encoding="UTF-8"))
