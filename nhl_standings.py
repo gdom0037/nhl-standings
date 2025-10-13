@@ -1,50 +1,43 @@
 import requests
 import pandas as pd
 
-url = "https://api-web.nhle.com/v1/standings/now"
-response = requests.get(url)
-data = response.json()
+# ESPN NHL standings endpoint (example — replace with your actual source if needed)
+url = "https://site.api.espn.com/apis/v2/sports/hockey/nhl/standings"
 
-teams = []
-for record in data['standings']:
-    RW = record['regulationWins']
-    total_wins = record['wins']
-    OTW = total_wins - RW
-    OTL = record['otLosses']
-    RL = record['losses'] - OTL
+try:
+    response = requests.get(url)
+    data = response.json()
+except Exception as e:
+    print(f"❌ Failed to fetch standings: {e}")
+    data = {}
 
-    teams.append({
-        'Team': record['teamName'],
-        'Division': record['divisionName'],
-        'Conference': record['conferenceName'],
-        'GP': record['gamesPlayed'],
-        'RW': RW,
-        'OTW': OTW,
-        'OTL': OTL,
-        'RL': RL,
-    })
+# Open file for writing
+with open("standings.txt", "w") as f:
+    # Loop through each group (division)
+    for group in data.get("children", []):
+        division_name = group.get("name", "Unknown Division")
+        record_format = group.get("standings", {}).get("format", {}).get("description", "")
+        f.write(f"{division_name} Standings ({record_format})\n")
 
-df = pd.DataFrame(teams)
-df['Points'] = df['RW'] * 3 + df['OTW'] * 2 + df['OTL']
-df['Points %'] = (df['Points'] / (df['GP'] * 3)).round(3)
+        # Loop through each team in the division
+        for team_entry in group.get("standings", {}).get("entries", []):
+            team_info = team_entry.get("team", {})
+            team_name = team_info.get("displayName", "Unknown Team")
 
-def format_group(title, group_df):
-    group_df = group_df.sort_values(by='Points', ascending=False)
-    lines = [f"🏒 {title} Standings (3-2-1-0)"]
-    for _, row in group_df.iterrows():
-        lines.append(f"{row['Team']} – {row['Points']} pts ({row['Points %']})")
-    return "\n".join(lines)
+            stats = {stat["name"]: stat["value"] for stat in team_entry.get("stats", [])}
+            wins = int(stats.get("wins", 0))
+            losses = int(stats.get("losses", 0))
+            ot_losses = int(stats.get("otLosses", 0))
 
-output = []
+            points = wins * 2 + ot_losses  # NHL standard: 2 pts per win, 1 pt per OT loss
+            games_played = wins + losses + ot_losses
 
-for division in df['Division'].unique():
-    output.append(format_group(f"{division} Division", df[df['Division'] == division]))
+            entry = {
+                "default": team_name,
+                "points": points,
+                "games_played": games_played
+            }
 
-for conference in df['Conference'].unique():
-    output.append(format_group(f"{conference} Conference", df[df['Conference'] == conference]))
+            f.write(str(entry) + "\n")
 
-output.append(format_group("League", df))
-
-with open("standings.txt", "w", encoding="utf-8") as f:
-    for section in output:
-        f.write(section + "\n\n")
+print("✅ standings.txt successfully updated.")
