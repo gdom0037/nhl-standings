@@ -21,20 +21,20 @@ jobs:
       - name: 📦 Install dependencies
         run: pip install requests lxml
 
-      - name: 📊 Run nhl_standings.py
+      - name: 🏒 Run nhl_standings.py
         run: |
-          echo "📡 Fetching NHL standings..."
+          echo "* Fetching NHL standings..."
           python nhl_standings.py
 
       - name: 📰 Run update_feed.py
         run: |
-          echo "🧠 Building RSS feed..."
+          echo "* Building RSS feed..."
           python update_feed.py
 
-      - name: 🚀 Commit and push updated feed.xml
+      - name: 🚀 Commit and push updated files
         run: |
           git config user.name "GageBot"
           git config user.email "gagebot@example.com"
-          git add feed.xml
-          git commit -m "Auto-update feed.xml with latest NHL standings" || echo "No changes to commit"
+          git add feed.xml standings.txt
+          git commit -m "Auto-update feed.xml and standings.txt with latest NHL data" || echo "No changes to commit"
           git push
