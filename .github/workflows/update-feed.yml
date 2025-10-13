@@ -3,7 +3,7 @@ name: Update NHL Standings Feed
 on:
   schedule:
     - cron: '0 5 * * *'  # Runs daily at 5 AM UTC
-  workflow_dispatch:      # Allows manual triggering
+  workflow_dispatch:
 
 jobs:
   update-feed:
@@ -19,23 +19,13 @@ jobs:
           python-version: '3.11'
 
       - name: 📦 Install dependencies
-        run: |
-          pip install requests lxml
+        run: pip install requests lxml
 
       - name: 📊 Fetch latest NHL standings
-        run: |
-          echo "Running nhl_standings.py..."
-          python nhl_standings.py
+        run: python nhl_standings.py
 
       - name: 📰 Build RSS feed
-        run: |
-          echo "Running update_feed.py..."
-          python update_feed.py
-
-      - name: 📄 Show feed.xml contents
-        run: |
-          echo "Contents of feed.xml:"
-          cat feed.xml
+        run: python update_feed.py
 
       - name: 🚀 Commit and push updated feed.xml
         run: |
