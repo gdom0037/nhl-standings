@@ -23,22 +23,23 @@ for line in lines:
         chart += line + "\n"
         continue
 
-    # Try parsing as dict
+    # Extract dictionary portion
+    dict_match = re.match(r"(\{.*?\})", line)
+    if not dict_match:
+        chart += f"⚠️ Unreadable line: {line}\n"
+        continue
+
     try:
-        team_data = ast.literal_eval(line)
+        team_data = ast.literal_eval(dict_match.group(1))
         name = team_data.get("default", "Unknown Team")
-        points = team_data.get("points", "0 pts")
+
+        # Extract points from trailing text
+        points_match = re.search(r"–\s*(\d+)\s*pts", line)
+        points = f"{points_match.group(1)} pts" if points_match else "0 pts"
+
         chart += f"{name} – {points}\n"
     except Exception:
-        # Fallback: try regex extraction
-        name_match = re.search(r"'default':\s*'([^']+)'", line)
-        points_match = re.search(r"'points':\s*'([^']+)'", line)
-        if name_match and points_match:
-            name = name_match.group(1)
-            points = points_match.group(1)
-            chart += f"{name} – {points}\n"
-        else:
-            chart += f"⚠️ Unreadable line: {line}\n"
+        chart += f"⚠️ Unreadable line: {line}\n"
 
 chart += "---------------------"
 
