@@ -3,9 +3,9 @@
   <channel>
     <title>GageBot NHL Standings Feed</title>
     <link>https://gage.codes/nhl-standings/</link>
-    <description>Daily NHL standings updates — 2025-10-13T05:38:17.028329</description>
+    <description>Daily NHL standings updates — 2025-10-13T20:50:57.045630</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Oct 2025 05:38:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Oct 2025 20:50:57 GMT</lastBuildDate>
     <item>
       <title>🏒 NHL Standings
 ---------------------
@@ -115,7 +115,7 @@
 ---------------------</title>
       <link>https://gage.codes/nhl-standings/standings.txt</link>
       <description>Full standings chart embedded in title for dlvr.it</description>
-      <pubDate>Mon, 13 Oct 2025 05:38:17 GMT</pubDate>
+      <pubDate>Mon, 13 Oct 2025 20:50:57 GMT</pubDate>
     </item>
   </channel>
 </rss>
