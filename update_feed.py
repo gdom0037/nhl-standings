@@ -34,14 +34,10 @@ for line in lines:
     try:
         team_data = ast.literal_eval(dict_match.group(1))
         name = team_data.get("default", "Unknown Team")
+        points = int(team_data.get("points", 0))
+        games_played = int(team_data.get("games_played", 0))
 
-        # Extract points and games played
-        points_match = re.search(r"–\s*(\d+)\s*pts", line)
-        gp_match = re.search(r"\(([\d\.]+)\)", line)  # e.g. (1.0)
-
-        points = int(points_match.group(1)) if points_match else 0
-        gp = float(gp_match.group(1)) if gp_match else 0
-        max_points = gp * 3 if gp else 1
+        max_points = games_played * 3 if games_played else 1
         pct = round(points / max_points, 3) if max_points else 0.0
 
         divisions[current_division].append(f"{name} – {points} pts ({pct})")
