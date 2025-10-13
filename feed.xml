@@ -3,119 +3,136 @@
   <channel>
     <title>GageBot NHL Standings Feed</title>
     <link>https://gage.codes/nhl-standings/</link>
-    <description>Daily NHL standings updates — 2025-10-13T21:15:26.212818</description>
+    <description>Daily NHL standings updates — 2025-10-13T21:25:25.387609</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Oct 2025 21:15:26 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Oct 2025 21:25:25 GMT</lastBuildDate>
     <item>
-      <title>🏒 NHL Standings
+      <title>🏒 Central Division Standings (3-2-1-0)
 ---------------------
-🏒 Central Division Standings (3-2-1-0)
-Colorado Avalanche – 10 pts
-Nashville Predators – 7 pts
-Winnipeg Jets – 6 pts
-Dallas Stars – 5 pts
-Minnesota Wild – 3 pts
-St. Louis Blues – 3 pts
-Utah Mammoth – 2 pts
-Chicago Blackhawks – 1 pts
-🏒 Atlantic Division Standings (3-2-1-0)
-Florida Panthers – 9 pts
-Boston Bruins – 8 pts
-Montréal Canadiens – 6 pts
-Detroit Red Wings – 6 pts
-Toronto Maple Leafs – 3 pts
-Tampa Bay Lightning – 3 pts
-Ottawa Senators – 3 pts
-Buffalo Sabres – 0 pts
-🏒 Metropolitan Division Standings (3-2-1-0)
-Washington Capitals – 6 pts
-Pittsburgh Penguins – 6 pts
-New York Rangers – 6 pts
-Carolina Hurricanes – 5 pts
-Columbus Blue Jackets – 3 pts
-New Jersey Devils – 3 pts
-Philadelphia Flyers – 1 pts
-New York Islanders – 0 pts
-🏒 Pacific Division Standings (3-2-1-0)
-Seattle Kraken – 5 pts
-Vegas Golden Knights – 4 pts
-Edmonton Oilers – 4 pts
-Vancouver Canucks – 3 pts
-Anaheim Ducks – 2 pts
-San Jose Sharks – 2 pts
-Los Angeles Kings – 2 pts
-Calgary Flames – 2 pts
-🏒 Western Conference Standings (3-2-1-0)
-Colorado Avalanche – 10 pts
-Nashville Predators – 7 pts
-Winnipeg Jets – 6 pts
-Seattle Kraken – 5 pts
-Dallas Stars – 5 pts
-Vegas Golden Knights – 4 pts
-Edmonton Oilers – 4 pts
-Minnesota Wild – 3 pts
-Vancouver Canucks – 3 pts
-St. Louis Blues – 3 pts
-Utah Mammoth – 2 pts
-Anaheim Ducks – 2 pts
-San Jose Sharks – 2 pts
-Los Angeles Kings – 2 pts
-Calgary Flames – 2 pts
-Chicago Blackhawks – 1 pts
-🏒 Eastern Conference Standings (3-2-1-0)
-Florida Panthers – 9 pts
-Boston Bruins – 8 pts
-Montréal Canadiens – 6 pts
-Washington Capitals – 6 pts
-Pittsburgh Penguins – 6 pts
-Detroit Red Wings – 6 pts
-New York Rangers – 6 pts
-Carolina Hurricanes – 5 pts
-Columbus Blue Jackets – 3 pts
-New Jersey Devils – 3 pts
-Toronto Maple Leafs – 3 pts
-Tampa Bay Lightning – 3 pts
-Ottawa Senators – 3 pts
-Philadelphia Flyers – 1 pts
-New York Islanders – 0 pts
-Buffalo Sabres – 0 pts
-🏒 League Standings (3-2-1-0)
-Colorado Avalanche – 10 pts
-Florida Panthers – 9 pts
-Boston Bruins – 8 pts
-Nashville Predators – 7 pts
-Winnipeg Jets – 6 pts
-Detroit Red Wings – 6 pts
-Washington Capitals – 6 pts
-Montréal Canadiens – 6 pts
-New York Rangers – 6 pts
-Pittsburgh Penguins – 6 pts
-Carolina Hurricanes – 5 pts
-Seattle Kraken – 5 pts
-Dallas Stars – 5 pts
-Vegas Golden Knights – 4 pts
-Edmonton Oilers – 4 pts
-Minnesota Wild – 3 pts
-Columbus Blue Jackets – 3 pts
-Vancouver Canucks – 3 pts
-New Jersey Devils – 3 pts
-St. Louis Blues – 3 pts
-Toronto Maple Leafs – 3 pts
-Tampa Bay Lightning – 3 pts
-Ottawa Senators – 3 pts
-Utah Mammoth – 2 pts
-San Jose Sharks – 2 pts
-Anaheim Ducks – 2 pts
-Los Angeles Kings – 2 pts
-Calgary Flames – 2 pts
-Philadelphia Flyers – 1 pts
-Chicago Blackhawks – 1 pts
-New York Islanders – 0 pts
-Buffalo Sabres – 0 pts
+Colorado Avalanche – 10 pts (4.002)
+Nashville Predators – 7 pts (2.999)
+Winnipeg Jets – 6 pts (2.999)
+Dallas Stars – 5 pts (2.001)
+Minnesota Wild – 3 pts (2.0)
+St. Louis Blues – 3 pts (2.0)
+Utah Mammoth – 2 pts (2.002)
+Chicago Blackhawks – 1 pts (3.003)
 ---------------------</title>
       <link>https://gage.codes/nhl-standings/standings.txt</link>
-      <description>Full standings chart embedded in title for dlvr.it</description>
-      <pubDate>Mon, 13 Oct 2025 21:15:26 GMT</pubDate>
+      <description>🏒 Central Division Standings (3-2-1-0) standings with points percentage</description>
+      <pubDate>Mon, 13 Oct 2025 21:25:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>🏒 Atlantic Division Standings (3-2-1-0)
+---------------------
+Florida Panthers – 9 pts (3.0)
+Boston Bruins – 8 pts (3.998)
+Montréal Canadiens – 6 pts (2.999)
+Detroit Red Wings – 6 pts (2.999)
+Toronto Maple Leafs – 3 pts (3.003)
+Tampa Bay Lightning – 3 pts (3.003)
+Ottawa Senators – 3 pts (3.003)
+Buffalo Sabres – 0 pts (0.0)
+---------------------</title>
+      <link>https://gage.codes/nhl-standings/standings.txt</link>
+      <description>🏒 Atlantic Division Standings (3-2-1-0) standings with points percentage</description>
+      <pubDate>Mon, 13 Oct 2025 21:25:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>🏒 Metropolitan Division Standings (3-2-1-0)
+---------------------
+Washington Capitals – 6 pts (2.999)
+Pittsburgh Penguins – 6 pts (2.999)
+New York Rangers – 6 pts (4.0)
+Carolina Hurricanes – 5 pts (2.001)
+Columbus Blue Jackets – 3 pts (2.0)
+New Jersey Devils – 3 pts (2.0)
+Philadelphia Flyers – 1 pts (1.996)
+New York Islanders – 0 pts (0.0)
+---------------------</title>
+      <link>https://gage.codes/nhl-standings/standings.txt</link>
+      <description>🏒 Metropolitan Division Standings (3-2-1-0) standings with points percentage</description>
+      <pubDate>Mon, 13 Oct 2025 21:25:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>🏒 Pacific Division Standings (3-2-1-0)
+---------------------
+Seattle Kraken – 5 pts (2.001)
+Vegas Golden Knights – 4 pts (3.003)
+Edmonton Oilers – 4 pts (1.999)
+Vancouver Canucks – 3 pts (2.0)
+Anaheim Ducks – 2 pts (2.002)
+San Jose Sharks – 2 pts (2.002)
+Los Angeles Kings – 2 pts (3.003)
+Calgary Flames – 2 pts (3.003)
+Colorado Avalanche – 10 pts (4.002)
+Nashville Predators – 7 pts (2.999)
+Winnipeg Jets – 6 pts (2.999)
+Seattle Kraken – 5 pts (2.001)
+Dallas Stars – 5 pts (2.001)
+Vegas Golden Knights – 4 pts (3.003)
+Edmonton Oilers – 4 pts (1.999)
+Minnesota Wild – 3 pts (2.0)
+Vancouver Canucks – 3 pts (2.0)
+St. Louis Blues – 3 pts (2.0)
+Utah Mammoth – 2 pts (2.002)
+Anaheim Ducks – 2 pts (2.002)
+San Jose Sharks – 2 pts (2.002)
+Los Angeles Kings – 2 pts (3.003)
+Calgary Flames – 2 pts (3.003)
+Chicago Blackhawks – 1 pts (3.003)
+Florida Panthers – 9 pts (3.0)
+Boston Bruins – 8 pts (3.998)
+Montréal Canadiens – 6 pts (2.999)
+Washington Capitals – 6 pts (2.999)
+Pittsburgh Penguins – 6 pts (2.999)
+Detroit Red Wings – 6 pts (2.999)
+New York Rangers – 6 pts (4.0)
+Carolina Hurricanes – 5 pts (2.001)
+Columbus Blue Jackets – 3 pts (2.0)
+New Jersey Devils – 3 pts (2.0)
+Toronto Maple Leafs – 3 pts (3.003)
+Tampa Bay Lightning – 3 pts (3.003)
+Ottawa Senators – 3 pts (3.003)
+Philadelphia Flyers – 1 pts (1.996)
+New York Islanders – 0 pts (0.0)
+Buffalo Sabres – 0 pts (0.0)
+Colorado Avalanche – 10 pts (4.002)
+Florida Panthers – 9 pts (3.0)
+Boston Bruins – 8 pts (3.998)
+Nashville Predators – 7 pts (2.999)
+Winnipeg Jets – 6 pts (2.999)
+Detroit Red Wings – 6 pts (2.999)
+Washington Capitals – 6 pts (2.999)
+Montréal Canadiens – 6 pts (2.999)
+New York Rangers – 6 pts (4.0)
+Pittsburgh Penguins – 6 pts (2.999)
+Carolina Hurricanes – 5 pts (2.001)
+Seattle Kraken – 5 pts (2.001)
+Dallas Stars – 5 pts (2.001)
+Vegas Golden Knights – 4 pts (3.003)
+Edmonton Oilers – 4 pts (1.999)
+Minnesota Wild – 3 pts (2.0)
+Columbus Blue Jackets – 3 pts (2.0)
+Vancouver Canucks – 3 pts (2.0)
+New Jersey Devils – 3 pts (2.0)
+St. Louis Blues – 3 pts (2.0)
+Toronto Maple Leafs – 3 pts (3.003)
+Tampa Bay Lightning – 3 pts (3.003)
+Ottawa Senators – 3 pts (3.003)
+Utah Mammoth – 2 pts (2.002)
+San Jose Sharks – 2 pts (2.002)
+Anaheim Ducks – 2 pts (2.002)
+Los Angeles Kings – 2 pts (3.003)
+Calgary Flames – 2 pts (3.003)
+Philadelphia Flyers – 1 pts (1.996)
+Chicago Blackhawks – 1 pts (3.003)
+New York Islanders – 0 pts (0.0)
+Buffalo Sabres – 0 pts (0.0)
+---------------------</title>
+      <link>https://gage.codes/nhl-standings/standings.txt</link>
+      <description>🏒 Pacific Division Standings (3-2-1-0) standings with points percentage</description>
+      <pubDate>Mon, 13 Oct 2025 21:25:25 GMT</pubDate>
     </item>
   </channel>
 </rss>
