@@ -1,6 +1,5 @@
 import requests
 
-# ESPN NHL standings endpoint
 url = "https://site.api.espn.com/apis/v2/sports/hockey/nhl/standings"
 
 try:
