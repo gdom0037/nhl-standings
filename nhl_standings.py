@@ -6,6 +6,7 @@ url = "https://site.api.espn.com/apis/v2/sports/hockey/nhl/standings"
 try:
     response = requests.get(url)
     data = response.json()
+    print("✅ ESPN response received.")
 except Exception as e:
     print(f"❌ Failed to fetch standings: {e}")
     data = {}
