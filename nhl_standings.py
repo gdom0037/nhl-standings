@@ -13,16 +13,16 @@ except Exception as e:
 with open("standings.txt", "w") as f:
     for group in data.get("children", []):
         division_name = group.get("name", "Unknown Division")
-        record_format = group.get("standings", {}).get("format", {}).get("description", "")
-        f.write(f"{division_name} Standings ({record_format})\n")
+        format_desc = group.get("standings", {}).get("format", {}).get("description", "")
+        f.write(f"{division_name} Standings ({format_desc})\n")
 
-        for team_entry in group.get("standings", {}).get("entries", []):
-            team_info = team_entry.get("team", {})
-            team_name = team_info.get("displayName", "Unknown Team")
+        for entry in group.get("standings", {}).get("entries", []):
+            team = entry.get("team", {})
+            team_name = team.get("displayName", "Unknown Team")
 
             stats = {
                 stat["name"]: stat["value"]
-                for stat in team_entry.get("stats", [])
+                for stat in entry.get("stats", [])
                 if "name" in stat and "value" in stat
             }
 
@@ -33,12 +33,12 @@ with open("standings.txt", "w") as f:
             points = wins * 2 + ot_losses
             games_played = wins + losses + ot_losses
 
-            entry = {
+            team_dict = {
                 "default": team_name,
                 "points": points,
                 "games_played": games_played
             }
 
-            f.write(str(entry) + "\n")
+            f.write(str(team_dict) + "\n")
 
 print("✅ standings.txt successfully updated.")
