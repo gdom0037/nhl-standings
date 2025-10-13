@@ -10,13 +10,22 @@ except Exception as e:
     print(f"❌ Failed to fetch standings: {e}")
     data = {}
 
+# Debug: Show top-level keys
+print("📦 Top-level keys in response:", list(data.keys()))
+
 with open("standings.txt", "w") as f:
-    for group in data.get("children", []):
+    children = data.get("children", [])
+    print(f"🔍 Found {len(children)} divisions.")
+
+    for group in children:
         division_name = group.get("name", "Unknown Division")
         format_desc = group.get("standings", {}).get("format", {}).get("description", "")
         f.write(f"{division_name} Standings ({format_desc})\n")
 
-        for entry in group.get("standings", {}).get("entries", []):
+        entries = group.get("standings", {}).get("entries", [])
+        print(f"📊 {division_name}: {len(entries)} teams")
+
+        for entry in entries:
             team = entry.get("team", {})
             team_name = team.get("displayName", "Unknown Team")
 
@@ -39,6 +48,7 @@ with open("standings.txt", "w") as f:
                 "games_played": games_played
             }
 
+            print(f"✅ Writing team: {team_dict}")
             f.write(str(team_dict) + "\n")
 
 print("✅ standings.txt successfully updated.")
