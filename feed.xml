@@ -3,9 +3,9 @@
   <channel>
     <title>GageBot NHL Standings Feed</title>
     <link>https://gage.codes/nhl-standings/</link>
-    <description>Daily NHL standings updates — 2025-10-13T21:00:32.272592</description>
+    <description>Daily NHL standings updates — 2025-10-13T21:04:50.839932</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Oct 2025 21:00:32 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Oct 2025 21:04:50 GMT</lastBuildDate>
     <item>
       <title>🏒 NHL Standings
 ---------------------
@@ -115,7 +115,7 @@ St. Louis Blues – 0 pts
 ---------------------</title>
       <link>https://gage.codes/nhl-standings/standings.txt</link>
       <description>Full standings chart embedded in title for dlvr.it</description>
-      <pubDate>Mon, 13 Oct 2025 21:00:32 GMT</pubDate>
+      <pubDate>Mon, 13 Oct 2025 21:04:50 GMT</pubDate>
     </item>
   </channel>
 </rss>
