@@ -1,34 +1,34 @@
 Eastern Conference Standings ()
+{'default': 'Carolina Hurricanes', 'points': 6, 'games_played': 3}
 {'default': 'Florida Panthers', 'points': 6, 'games_played': 4}
 {'default': 'Boston Bruins', 'points': 6, 'games_played': 4}
-{'default': 'Carolina Hurricanes', 'points': 4, 'games_played': 2}
-{'default': 'Montreal Canadiens', 'points': 4, 'games_played': 3}
-{'default': 'Washington Capitals', 'points': 4, 'games_played': 3}
-{'default': 'New Jersey Devils', 'points': 4, 'games_played': 3}
+{'default': 'Montreal Canadiens', 'points': 6, 'games_played': 4}
+{'default': 'Washington Capitals', 'points': 6, 'games_played': 4}
 {'default': 'Detroit Red Wings', 'points': 4, 'games_played': 3}
-{'default': 'Pittsburgh Penguins', 'points': 4, 'games_played': 3}
-{'default': 'New York Rangers', 'points': 4, 'games_played': 4}
+{'default': 'New Jersey Devils', 'points': 4, 'games_played': 3}
+{'default': 'Toronto Maple Leafs', 'points': 4, 'games_played': 4}
+{'default': 'Pittsburgh Penguins', 'points': 4, 'games_played': 4}
+{'default': 'New York Rangers', 'points': 4, 'games_played': 5}
 {'default': 'Philadelphia Flyers', 'points': 3, 'games_played': 3}
+{'default': 'Tampa Bay Lightning', 'points': 3, 'games_played': 4}
 {'default': 'Columbus Blue Jackets', 'points': 2, 'games_played': 3}
-{'default': 'Toronto Maple Leafs', 'points': 2, 'games_played': 3}
-{'default': 'Tampa Bay Lightning', 'points': 2, 'games_played': 3}
 {'default': 'Ottawa Senators', 'points': 2, 'games_played': 3}
 {'default': 'New York Islanders', 'points': 0, 'games_played': 3}
 {'default': 'Buffalo Sabres', 'points': 0, 'games_played': 3}
 Western Conference Standings ()
 {'default': 'Colorado Avalanche', 'points': 7, 'games_played': 4}
-{'default': 'Nashville Predators', 'points': 5, 'games_played': 3}
-{'default': 'Seattle Kraken', 'points': 4, 'games_played': 2}
-{'default': 'Dallas Stars', 'points': 4, 'games_played': 2}
+{'default': 'Dallas Stars', 'points': 6, 'games_played': 3}
+{'default': 'Vegas Golden Knights', 'points': 6, 'games_played': 4}
+{'default': 'Edmonton Oilers', 'points': 5, 'games_played': 3}
+{'default': 'Seattle Kraken', 'points': 5, 'games_played': 3}
+{'default': 'Nashville Predators', 'points': 5, 'games_played': 4}
 {'default': 'Winnipeg Jets', 'points': 4, 'games_played': 3}
 {'default': 'St. Louis Blues', 'points': 4, 'games_played': 3}
-{'default': 'Minnesota Wild', 'points': 4, 'games_played': 3}
-{'default': 'Vegas Golden Knights', 'points': 4, 'games_played': 3}
-{'default': 'Edmonton Oilers', 'points': 3, 'games_played': 2}
+{'default': 'Anaheim Ducks', 'points': 4, 'games_played': 3}
+{'default': 'Minnesota Wild', 'points': 4, 'games_played': 4}
 {'default': 'Chicago Blackhawks', 'points': 3, 'games_played': 4}
 {'default': 'Los Angeles Kings', 'points': 3, 'games_played': 4}
-{'default': 'Anaheim Ducks', 'points': 2, 'games_played': 2}
-{'default': 'San Jose Sharks', 'points': 2, 'games_played': 2}
 {'default': 'Vancouver Canucks', 'points': 2, 'games_played': 3}
 {'default': 'Utah Mammoth', 'points': 2, 'games_played': 3}
-{'default': 'Calgary Flames', 'points': 2, 'games_played': 3}
+{'default': 'San Jose Sharks', 'points': 2, 'games_played': 3}
+{'default': 'Calgary Flames', 'points': 2, 'games_played': 4}
