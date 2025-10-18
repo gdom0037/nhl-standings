@@ -3,32 +3,32 @@
   <channel>
     <title>GageBot NHL Standings Feed</title>
     <link>https://gage.codes/nhl-standings</link>
-    <description>Daily NHL standings updates – 2025-10-17T05:35:07.916650Z</description>
+    <description>Daily NHL standings updates – 2025-10-18T05:33:50.941119Z</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 17 Oct 2025 05:35:07 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Oct 2025 05:33:50 GMT</lastBuildDate>
     <item>
       <title>Eastern Conference Standings ()</title>
       <link>https://gage.codes/nhl-standings/standings.txt</link>
       <description>Eastern Conference Standings ()
 ---------------------
 Carolina Hurricanes – 8 pts (0.667)
+Washington Capitals – 8 pts (0.533)
+Detroit Red Wings – 8 pts (0.533)
 Montreal Canadiens – 8 pts (0.533)
-Detroit Red Wings – 6 pts (0.5)
 New Jersey Devils – 6 pts (0.5)
-Washington Capitals – 6 pts (0.5)
 Pittsburgh Penguins – 6 pts (0.4)
 Toronto Maple Leafs – 6 pts (0.4)
 Boston Bruins – 6 pts (0.4)
 Florida Panthers – 6 pts (0.333)
 New York Rangers – 5 pts (0.278)
 Ottawa Senators – 4 pts (0.267)
+Tampa Bay Lightning – 4 pts (0.267)
 Philadelphia Flyers – 3 pts (0.25)
-Tampa Bay Lightning – 3 pts (0.25)
 Columbus Blue Jackets – 2 pts (0.167)
 Buffalo Sabres – 2 pts (0.167)
 New York Islanders – 2 pts (0.167)
 ---------------------</description>
-      <pubDate>Fri, 17 Oct 2025 05:35:07 GMT</pubDate>
+      <pubDate>Sat, 18 Oct 2025 05:33:50 GMT</pubDate>
     </item>
     <item>
       <title>Western Conference Standings ()</title>
@@ -40,19 +40,19 @@ Vegas Golden Knights – 8 pts (0.533)
 Winnipeg Jets – 6 pts (0.5)
 Dallas Stars – 6 pts (0.5)
 Seattle Kraken – 6 pts (0.5)
+Utah Mammoth – 6 pts (0.4)
+Vancouver Canucks – 6 pts (0.4)
 Nashville Predators – 6 pts (0.4)
+Chicago Blackhawks – 6 pts (0.333)
 Edmonton Oilers – 5 pts (0.417)
-Chicago Blackhawks – 5 pts (0.333)
-Vancouver Canucks – 4 pts (0.333)
 St. Louis Blues – 4 pts (0.333)
-Utah Mammoth – 4 pts (0.333)
 Anaheim Ducks – 4 pts (0.333)
-Minnesota Wild – 4 pts (0.333)
+Minnesota Wild – 4 pts (0.267)
 Los Angeles Kings – 3 pts (0.2)
-San Jose Sharks – 2 pts (0.222)
+San Jose Sharks – 2 pts (0.167)
 Calgary Flames – 2 pts (0.133)
 ---------------------</description>
-      <pubDate>Fri, 17 Oct 2025 05:35:07 GMT</pubDate>
+      <pubDate>Sat, 18 Oct 2025 05:33:50 GMT</pubDate>
     </item>
   </channel>
 </rss>
