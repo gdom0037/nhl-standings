@@ -1,19 +1,19 @@
 Eastern Conference Standings ()
-{'default': 'New Jersey Devils', 'points': 10, 'games_played': 6}
-{'default': 'Detroit Red Wings', 'points': 10, 'games_played': 6}
+{'default': 'New Jersey Devils', 'points': 12, 'games_played': 7}
+{'default': 'Montreal Canadiens', 'points': 12, 'games_played': 8}
 {'default': 'Carolina Hurricanes', 'points': 10, 'games_played': 6}
 {'default': 'Pittsburgh Penguins', 'points': 10, 'games_played': 7}
 {'default': 'Washington Capitals', 'points': 10, 'games_played': 7}
-{'default': 'Montreal Canadiens', 'points': 10, 'games_played': 7}
+{'default': 'Detroit Red Wings', 'points': 10, 'games_played': 7}
 {'default': 'Florida Panthers', 'points': 8, 'games_played': 8}
 {'default': 'Philadelphia Flyers', 'points': 7, 'games_played': 6}
 {'default': 'Toronto Maple Leafs', 'points': 7, 'games_played': 7}
 {'default': 'New York Rangers', 'points': 7, 'games_played': 8}
 {'default': 'Columbus Blue Jackets', 'points': 6, 'games_played': 6}
 {'default': 'New York Islanders', 'points': 6, 'games_played': 6}
+{'default': 'Buffalo Sabres', 'points': 6, 'games_played': 7}
 {'default': 'Boston Bruins', 'points': 6, 'games_played': 8}
 {'default': 'Ottawa Senators', 'points': 5, 'games_played': 7}
-{'default': 'Buffalo Sabres', 'points': 4, 'games_played': 6}
 {'default': 'Tampa Bay Lightning', 'points': 4, 'games_played': 6}
 Western Conference Standings ()
 {'default': 'Colorado Avalanche', 'points': 12, 'games_played': 7}
@@ -26,9 +26,9 @@ Western Conference Standings ()
 {'default': 'St. Louis Blues', 'points': 7, 'games_played': 6}
 {'default': 'Anaheim Ducks', 'points': 7, 'games_played': 6}
 {'default': 'Edmonton Oilers', 'points': 7, 'games_played': 7}
-{'default': 'Minnesota Wild', 'points': 7, 'games_played': 7}
+{'default': 'Minnesota Wild', 'points': 7, 'games_played': 8}
 {'default': 'Dallas Stars', 'points': 6, 'games_played': 6}
 {'default': 'Nashville Predators', 'points': 6, 'games_played': 7}
 {'default': 'Los Angeles Kings', 'points': 6, 'games_played': 7}
+{'default': 'Calgary Flames', 'points': 3, 'games_played': 8}
 {'default': 'San Jose Sharks', 'points': 2, 'games_played': 6}
-{'default': 'Calgary Flames', 'points': 2, 'games_played': 7}
