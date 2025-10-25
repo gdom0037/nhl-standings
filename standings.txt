@@ -1,25 +1,25 @@
 Eastern Conference Standings ()
-{'default': 'New Jersey Devils', 'points': 12, 'games_played': 7}
+{'default': 'New Jersey Devils', 'points': 14, 'games_played': 8}
 {'default': 'Carolina Hurricanes', 'points': 12, 'games_played': 7}
 {'default': 'Pittsburgh Penguins', 'points': 12, 'games_played': 8}
+{'default': 'Washington Capitals', 'points': 12, 'games_played': 8}
 {'default': 'Montreal Canadiens', 'points': 12, 'games_played': 9}
-{'default': 'Washington Capitals', 'points': 10, 'games_played': 7}
 {'default': 'Detroit Red Wings', 'points': 10, 'games_played': 8}
 {'default': 'New York Islanders', 'points': 8, 'games_played': 7}
+{'default': 'Buffalo Sabres', 'points': 8, 'games_played': 8}
 {'default': 'Florida Panthers', 'points': 8, 'games_played': 9}
 {'default': 'New York Rangers', 'points': 8, 'games_played': 9}
 {'default': 'Philadelphia Flyers', 'points': 7, 'games_played': 7}
-{'default': 'Toronto Maple Leafs', 'points': 7, 'games_played': 7}
+{'default': 'Toronto Maple Leafs', 'points': 7, 'games_played': 8}
 {'default': 'Ottawa Senators', 'points': 7, 'games_played': 8}
-{'default': 'Columbus Blue Jackets', 'points': 6, 'games_played': 6}
-{'default': 'Buffalo Sabres', 'points': 6, 'games_played': 7}
+{'default': 'Columbus Blue Jackets', 'points': 6, 'games_played': 7}
 {'default': 'Boston Bruins', 'points': 6, 'games_played': 9}
 {'default': 'Tampa Bay Lightning', 'points': 4, 'games_played': 7}
 Western Conference Standings ()
 {'default': 'Colorado Avalanche', 'points': 13, 'games_played': 8}
 {'default': 'Vegas Golden Knights', 'points': 12, 'games_played': 7}
+{'default': 'Winnipeg Jets', 'points': 12, 'games_played': 8}
 {'default': 'Utah Mammoth', 'points': 12, 'games_played': 8}
-{'default': 'Winnipeg Jets', 'points': 10, 'games_played': 7}
 {'default': 'Chicago Blackhawks', 'points': 10, 'games_played': 8}
 {'default': 'Seattle Kraken', 'points': 10, 'games_played': 8}
 {'default': 'Anaheim Ducks', 'points': 9, 'games_played': 7}
@@ -30,5 +30,5 @@ Western Conference Standings ()
 {'default': 'St. Louis Blues', 'points': 7, 'games_played': 7}
 {'default': 'Dallas Stars', 'points': 7, 'games_played': 7}
 {'default': 'Minnesota Wild', 'points': 7, 'games_played': 8}
-{'default': 'San Jose Sharks', 'points': 4, 'games_played': 7}
-{'default': 'Calgary Flames', 'points': 3, 'games_played': 8}
+{'default': 'San Jose Sharks', 'points': 4, 'games_played': 8}
+{'default': 'Calgary Flames', 'points': 3, 'games_played': 9}
