@@ -3,32 +3,32 @@
   <channel>
     <title>GageBot NHL Standings Feed</title>
     <link>https://gage.codes/nhl-standings</link>
-    <description>Daily NHL standings updates – 2025-10-27T05:40:57.635151Z</description>
+    <description>Daily NHL standings updates – 2025-10-28T05:40:03.972907Z</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 27 Oct 2025 05:40:57 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Oct 2025 05:40:03 GMT</lastBuildDate>
     <item>
       <title>Eastern Conference Standings ()</title>
       <link>https://gage.codes/nhl-standings/standings.txt</link>
       <description>Eastern Conference Standings ()
 ---------------------
 New Jersey Devils – 16 pts (0.593)
+Pittsburgh Penguins – 15 pts (0.5)
 Montreal Canadiens – 14 pts (0.467)
-Pittsburgh Penguins – 13 pts (0.481)
 Carolina Hurricanes – 12 pts (0.5)
 Washington Capitals – 12 pts (0.444)
 Detroit Red Wings – 12 pts (0.444)
+Ottawa Senators – 11 pts (0.367)
 Florida Panthers – 10 pts (0.333)
 New York Islanders – 9 pts (0.375)
 Philadelphia Flyers – 9 pts (0.375)
 Buffalo Sabres – 9 pts (0.333)
-Ottawa Senators – 9 pts (0.333)
 Toronto Maple Leafs – 9 pts (0.333)
 Columbus Blue Jackets – 8 pts (0.333)
 Tampa Bay Lightning – 8 pts (0.296)
-Boston Bruins – 8 pts (0.267)
 New York Rangers – 8 pts (0.267)
+Boston Bruins – 8 pts (0.242)
 ---------------------</description>
-      <pubDate>Mon, 27 Oct 2025 05:40:57 GMT</pubDate>
+      <pubDate>Tue, 28 Oct 2025 05:40:03 GMT</pubDate>
     </item>
     <item>
       <title>Western Conference Standings ()</title>
@@ -48,11 +48,11 @@ Edmonton Oilers – 10 pts (0.333)
 Nashville Predators – 10 pts (0.333)
 Anaheim Ducks – 9 pts (0.375)
 Minnesota Wild – 8 pts (0.267)
-St. Louis Blues – 7 pts (0.292)
+St. Louis Blues – 7 pts (0.259)
 San Jose Sharks – 6 pts (0.222)
 Calgary Flames – 5 pts (0.167)
 ---------------------</description>
-      <pubDate>Mon, 27 Oct 2025 05:40:57 GMT</pubDate>
+      <pubDate>Tue, 28 Oct 2025 05:40:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
