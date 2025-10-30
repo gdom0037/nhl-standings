@@ -3,9 +3,9 @@
   <channel>
     <title>GageBot NHL Standings Feed</title>
     <link>https://gage.codes/nhl-standings</link>
-    <description>Daily NHL standings updates – 2025-10-29T05:40:35.368973Z</description>
+    <description>Daily NHL standings updates – 2025-10-30T05:38:14.263333Z</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 29 Oct 2025 05:40:35 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Oct 2025 05:38:14 GMT</lastBuildDate>
     <item>
       <title>Eastern Conference Standings ()</title>
       <link>https://gage.codes/nhl-standings/standings.txt</link>
@@ -17,18 +17,18 @@ Montreal Canadiens – 16 pts (0.485)
 Detroit Red Wings – 14 pts (0.467)
 Carolina Hurricanes – 12 pts (0.444)
 Washington Capitals – 12 pts (0.4)
+Columbus Blue Jackets – 12 pts (0.4)
 Philadelphia Flyers – 11 pts (0.407)
-Toronto Maple Leafs – 11 pts (0.367)
 Florida Panthers – 11 pts (0.333)
 Ottawa Senators – 11 pts (0.333)
-Columbus Blue Jackets – 10 pts (0.37)
+Toronto Maple Leafs – 11 pts (0.333)
 Buffalo Sabres – 10 pts (0.333)
 Tampa Bay Lightning – 10 pts (0.333)
 New York Rangers – 10 pts (0.303)
 Boston Bruins – 10 pts (0.278)
 New York Islanders – 9 pts (0.333)
 ---------------------</description>
-      <pubDate>Wed, 29 Oct 2025 05:40:35 GMT</pubDate>
+      <pubDate>Thu, 30 Oct 2025 05:38:14 GMT</pubDate>
     </item>
     <item>
       <title>Western Conference Standings ()</title>
@@ -41,18 +41,18 @@ Vegas Golden Knights – 15 pts (0.5)
 Winnipeg Jets – 14 pts (0.467)
 Dallas Stars – 13 pts (0.433)
 Seattle Kraken – 13 pts (0.433)
+Los Angeles Kings – 13 pts (0.394)
 Chicago Blackhawks – 12 pts (0.4)
 Edmonton Oilers – 12 pts (0.364)
 Anaheim Ducks – 11 pts (0.407)
-Los Angeles Kings – 11 pts (0.367)
 Vancouver Canucks – 10 pts (0.303)
 Nashville Predators – 10 pts (0.303)
 Minnesota Wild – 9 pts (0.273)
 St. Louis Blues – 7 pts (0.233)
-San Jose Sharks – 6 pts (0.222)
+San Jose Sharks – 6 pts (0.2)
 Calgary Flames – 5 pts (0.152)
 ---------------------</description>
-      <pubDate>Wed, 29 Oct 2025 05:40:35 GMT</pubDate>
+      <pubDate>Thu, 30 Oct 2025 05:38:14 GMT</pubDate>
     </item>
   </channel>
 </rss>

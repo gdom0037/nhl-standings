@@ -5,11 +5,11 @@ Eastern Conference Standings ()
 {'default': 'Detroit Red Wings', 'points': 14, 'games_played': 10}
 {'default': 'Carolina Hurricanes', 'points': 12, 'games_played': 9}
 {'default': 'Washington Capitals', 'points': 12, 'games_played': 10}
+{'default': 'Columbus Blue Jackets', 'points': 12, 'games_played': 10}
 {'default': 'Philadelphia Flyers', 'points': 11, 'games_played': 9}
-{'default': 'Toronto Maple Leafs', 'points': 11, 'games_played': 10}
 {'default': 'Florida Panthers', 'points': 11, 'games_played': 11}
 {'default': 'Ottawa Senators', 'points': 11, 'games_played': 11}
-{'default': 'Columbus Blue Jackets', 'points': 10, 'games_played': 9}
+{'default': 'Toronto Maple Leafs', 'points': 11, 'games_played': 11}
 {'default': 'Buffalo Sabres', 'points': 10, 'games_played': 10}
 {'default': 'Tampa Bay Lightning', 'points': 10, 'games_played': 10}
 {'default': 'New York Rangers', 'points': 10, 'games_played': 11}
@@ -22,13 +22,13 @@ Western Conference Standings ()
 {'default': 'Winnipeg Jets', 'points': 14, 'games_played': 10}
 {'default': 'Dallas Stars', 'points': 13, 'games_played': 10}
 {'default': 'Seattle Kraken', 'points': 13, 'games_played': 10}
+{'default': 'Los Angeles Kings', 'points': 13, 'games_played': 11}
 {'default': 'Chicago Blackhawks', 'points': 12, 'games_played': 10}
 {'default': 'Edmonton Oilers', 'points': 12, 'games_played': 11}
 {'default': 'Anaheim Ducks', 'points': 11, 'games_played': 9}
-{'default': 'Los Angeles Kings', 'points': 11, 'games_played': 10}
 {'default': 'Vancouver Canucks', 'points': 10, 'games_played': 11}
 {'default': 'Nashville Predators', 'points': 10, 'games_played': 11}
 {'default': 'Minnesota Wild', 'points': 9, 'games_played': 11}
 {'default': 'St. Louis Blues', 'points': 7, 'games_played': 10}
-{'default': 'San Jose Sharks', 'points': 6, 'games_played': 9}
+{'default': 'San Jose Sharks', 'points': 6, 'games_played': 10}
 {'default': 'Calgary Flames', 'points': 5, 'games_played': 11}
