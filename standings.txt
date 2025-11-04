@@ -1,8 +1,9 @@
 Eastern Conference Standings ()
 {'default': 'Montreal Canadiens', 'points': 18, 'games_played': 12}
 {'default': 'New Jersey Devils', 'points': 18, 'games_played': 13}
-{'default': 'Pittsburgh Penguins', 'points': 18, 'games_played': 13}
 {'default': 'Detroit Red Wings', 'points': 18, 'games_played': 13}
+{'default': 'Pittsburgh Penguins', 'points': 18, 'games_played': 14}
+{'default': 'Toronto Maple Leafs', 'points': 15, 'games_played': 13}
 {'default': 'Carolina Hurricanes', 'points': 14, 'games_played': 11}
 {'default': 'Columbus Blue Jackets', 'points': 14, 'games_played': 12}
 {'default': 'Tampa Bay Lightning', 'points': 14, 'games_played': 12}
@@ -12,23 +13,22 @@ Eastern Conference Standings ()
 {'default': 'New York Islanders', 'points': 13, 'games_played': 12}
 {'default': 'Washington Capitals', 'points': 13, 'games_played': 12}
 {'default': 'Florida Panthers', 'points': 13, 'games_played': 12}
-{'default': 'Toronto Maple Leafs', 'points': 13, 'games_played': 12}
 {'default': 'Buffalo Sabres', 'points': 13, 'games_played': 12}
 {'default': 'Philadelphia Flyers', 'points': 13, 'games_played': 12}
 Western Conference Standings ()
 {'default': 'Colorado Avalanche', 'points': 19, 'games_played': 13}
 {'default': 'Winnipeg Jets', 'points': 18, 'games_played': 12}
 {'default': 'Utah Mammoth', 'points': 16, 'games_played': 12}
+{'default': 'Seattle Kraken', 'points': 16, 'games_played': 12}
 {'default': 'Anaheim Ducks', 'points': 15, 'games_played': 11}
 {'default': 'Vegas Golden Knights', 'points': 15, 'games_played': 11}
 {'default': 'Dallas Stars', 'points': 15, 'games_played': 12}
-{'default': 'Edmonton Oilers', 'points': 15, 'games_played': 13}
-{'default': 'Seattle Kraken', 'points': 14, 'games_played': 11}
+{'default': 'Edmonton Oilers', 'points': 15, 'games_played': 14}
 {'default': 'Los Angeles Kings', 'points': 14, 'games_played': 13}
-{'default': 'Chicago Blackhawks', 'points': 13, 'games_played': 12}
-{'default': 'Nashville Predators', 'points': 12, 'games_played': 13}
-{'default': 'Vancouver Canucks', 'points': 12, 'games_played': 13}
+{'default': 'Vancouver Canucks', 'points': 14, 'games_played': 14}
+{'default': 'Chicago Blackhawks', 'points': 13, 'games_played': 13}
+{'default': 'Nashville Predators', 'points': 13, 'games_played': 14}
 {'default': 'Minnesota Wild', 'points': 11, 'games_played': 13}
 {'default': 'San Jose Sharks', 'points': 11, 'games_played': 13}
-{'default': 'St. Louis Blues', 'points': 8, 'games_played': 12}
+{'default': 'St. Louis Blues', 'points': 10, 'games_played': 13}
 {'default': 'Calgary Flames', 'points': 8, 'games_played': 14}
