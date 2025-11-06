@@ -3,9 +3,9 @@
   <channel>
     <title>GageBot NHL Standings Feed</title>
     <link>https://gage.codes/nhl-standings</link>
-    <description>Daily NHL standings updates – 2025-11-05T05:39:38.835816Z</description>
+    <description>Daily NHL standings updates – 2025-11-06T05:39:50.749471Z</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 05 Nov 2025 05:39:38 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Nov 2025 05:39:50 GMT</lastBuildDate>
     <item>
       <title>Eastern Conference Standings ()</title>
       <link>https://gage.codes/nhl-standings/standings.txt</link>
@@ -13,22 +13,22 @@
 ---------------------
 Montreal Canadiens – 19 pts (0.487)
 New Jersey Devils – 18 pts (0.462)
-Detroit Red Wings – 18 pts (0.462)
 Pittsburgh Penguins – 18 pts (0.429)
+Detroit Red Wings – 18 pts (0.429)
+Toronto Maple Leafs – 17 pts (0.405)
 Carolina Hurricanes – 16 pts (0.444)
 Boston Bruins – 16 pts (0.356)
-Toronto Maple Leafs – 15 pts (0.385)
+Washington Capitals – 15 pts (0.385)
 Philadelphia Flyers – 15 pts (0.385)
-Columbus Blue Jackets – 14 pts (0.389)
 New York Islanders – 14 pts (0.359)
+Columbus Blue Jackets – 14 pts (0.359)
 Tampa Bay Lightning – 14 pts (0.359)
 Ottawa Senators – 14 pts (0.359)
 Buffalo Sabres – 14 pts (0.359)
 New York Rangers – 14 pts (0.333)
-Washington Capitals – 13 pts (0.361)
-Florida Panthers – 13 pts (0.361)
+Florida Panthers – 13 pts (0.333)
 ---------------------</description>
-      <pubDate>Wed, 05 Nov 2025 05:39:38 GMT</pubDate>
+      <pubDate>Thu, 06 Nov 2025 05:39:50 GMT</pubDate>
     </item>
     <item>
       <title>Western Conference Standings ()</title>
@@ -36,23 +36,23 @@ Florida Panthers – 13 pts (0.361)
       <description>Western Conference Standings ()
 ---------------------
 Colorado Avalanche – 21 pts (0.5)
-Winnipeg Jets – 18 pts (0.5)
-Utah Mammoth – 18 pts (0.462)
+Winnipeg Jets – 18 pts (0.462)
+Utah Mammoth – 18 pts (0.429)
+Anaheim Ducks – 17 pts (0.472)
+Vegas Golden Knights – 17 pts (0.472)
 Dallas Stars – 17 pts (0.436)
-Seattle Kraken – 16 pts (0.444)
+Seattle Kraken – 16 pts (0.41)
+Los Angeles Kings – 16 pts (0.381)
 Edmonton Oilers – 16 pts (0.356)
-Anaheim Ducks – 15 pts (0.455)
-Vegas Golden Knights – 15 pts (0.455)
-Los Angeles Kings – 14 pts (0.359)
-Vancouver Canucks – 14 pts (0.333)
+Chicago Blackhawks – 15 pts (0.357)
 Nashville Predators – 14 pts (0.311)
-Chicago Blackhawks – 13 pts (0.333)
+Vancouver Canucks – 14 pts (0.311)
 Minnesota Wild – 13 pts (0.31)
-San Jose Sharks – 11 pts (0.282)
-St. Louis Blues – 10 pts (0.256)
-Calgary Flames – 8 pts (0.19)
+San Jose Sharks – 13 pts (0.31)
+St. Louis Blues – 10 pts (0.238)
+Calgary Flames – 10 pts (0.222)
 ---------------------</description>
-      <pubDate>Wed, 05 Nov 2025 05:39:38 GMT</pubDate>
+      <pubDate>Thu, 06 Nov 2025 05:39:50 GMT</pubDate>
     </item>
   </channel>
 </rss>
