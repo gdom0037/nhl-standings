@@ -8,27 +8,27 @@ Eastern Conference Standings ()
 {'default': 'Montreal Canadiens', 'points': 23, 'games_played': 19}
 {'default': 'Tampa Bay Lightning', 'points': 22, 'games_played': 19}
 {'default': 'Ottawa Senators', 'points': 22, 'games_played': 19}
-{'default': 'New York Rangers', 'points': 22, 'games_played': 20}
+{'default': 'Washington Capitals', 'points': 22, 'games_played': 20}
 {'default': 'Columbus Blue Jackets', 'points': 22, 'games_played': 20}
+{'default': 'New York Rangers', 'points': 22, 'games_played': 21}
 {'default': 'Philadelphia Flyers', 'points': 21, 'games_played': 18}
 {'default': 'Florida Panthers', 'points': 21, 'games_played': 19}
-{'default': 'Washington Capitals', 'points': 20, 'games_played': 19}
 {'default': 'Toronto Maple Leafs', 'points': 20, 'games_played': 20}
-{'default': 'Buffalo Sabres', 'points': 18, 'games_played': 19}
+{'default': 'Buffalo Sabres', 'points': 18, 'games_played': 20}
 Western Conference Standings ()
 {'default': 'Colorado Avalanche', 'points': 31, 'games_played': 19}
 {'default': 'Dallas Stars', 'points': 27, 'games_played': 20}
 {'default': 'Anaheim Ducks', 'points': 25, 'games_played': 19}
 {'default': 'Winnipeg Jets', 'points': 24, 'games_played': 19}
 {'default': 'Chicago Blackhawks', 'points': 24, 'games_played': 19}
+{'default': 'Vegas Golden Knights', 'points': 24, 'games_played': 19}
 {'default': 'Los Angeles Kings', 'points': 24, 'games_played': 20}
 {'default': 'Seattle Kraken', 'points': 23, 'games_played': 19}
-{'default': 'Vegas Golden Knights', 'points': 22, 'games_played': 18}
-{'default': 'Utah Mammoth', 'points': 22, 'games_played': 19}
+{'default': 'Utah Mammoth', 'points': 23, 'games_played': 20}
 {'default': 'Minnesota Wild', 'points': 22, 'games_played': 20}
-{'default': 'Edmonton Oilers', 'points': 22, 'games_played': 21}
+{'default': 'Edmonton Oilers', 'points': 22, 'games_played': 22}
+{'default': 'San Jose Sharks', 'points': 21, 'games_played': 20}
 {'default': 'Vancouver Canucks', 'points': 20, 'games_played': 21}
-{'default': 'San Jose Sharks', 'points': 19, 'games_played': 19}
 {'default': 'St. Louis Blues', 'points': 17, 'games_played': 20}
 {'default': 'Nashville Predators', 'points': 16, 'games_played': 20}
-{'default': 'Calgary Flames', 'points': 13, 'games_played': 21}
+{'default': 'Calgary Flames', 'points': 15, 'games_played': 22}
