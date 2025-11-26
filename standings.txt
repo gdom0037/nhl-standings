@@ -17,7 +17,7 @@ Eastern Conference Standings ()
 {'default': 'Toronto Maple Leafs', 'points': 21, 'games_played': 22}
 Western Conference Standings ()
 {'default': 'Colorado Avalanche', 'points': 37, 'games_played': 22}
-{'default': 'Dallas Stars', 'points': 30, 'games_played': 22}
+{'default': 'Dallas Stars', 'points': 32, 'games_played': 23}
 {'default': 'Anaheim Ducks', 'points': 29, 'games_played': 22}
 {'default': 'Seattle Kraken', 'points': 28, 'games_played': 22}
 {'default': 'Minnesota Wild', 'points': 28, 'games_played': 23}
@@ -25,7 +25,7 @@ Western Conference Standings ()
 {'default': 'Vegas Golden Knights', 'points': 27, 'games_played': 22}
 {'default': 'Utah Mammoth', 'points': 27, 'games_played': 23}
 {'default': 'San Jose Sharks', 'points': 25, 'games_played': 23}
-{'default': 'Edmonton Oilers', 'points': 25, 'games_played': 24}
+{'default': 'Edmonton Oilers', 'points': 25, 'games_played': 25}
 {'default': 'Winnipeg Jets', 'points': 24, 'games_played': 21}
 {'default': 'Chicago Blackhawks', 'points': 24, 'games_played': 22}
 {'default': 'St. Louis Blues', 'points': 20, 'games_played': 23}
