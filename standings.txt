@@ -1,34 +1,34 @@
 Eastern Conference Standings ()
-{'default': 'New Jersey Devils', 'points': 31, 'games_played': 23}
-{'default': 'Tampa Bay Lightning', 'points': 30, 'games_played': 23}
-{'default': 'Carolina Hurricanes', 'points': 30, 'games_played': 23}
-{'default': 'Ottawa Senators', 'points': 28, 'games_played': 23}
-{'default': 'Washington Capitals', 'points': 28, 'games_played': 24}
-{'default': 'New York Islanders', 'points': 28, 'games_played': 24}
-{'default': 'Boston Bruins', 'points': 28, 'games_played': 25}
-{'default': 'Pittsburgh Penguins', 'points': 27, 'games_played': 22}
-{'default': 'Montreal Canadiens', 'points': 27, 'games_played': 22}
-{'default': 'Philadelphia Flyers', 'points': 27, 'games_played': 22}
-{'default': 'Detroit Red Wings', 'points': 27, 'games_played': 24}
-{'default': 'Columbus Blue Jackets', 'points': 26, 'games_played': 24}
-{'default': 'New York Rangers', 'points': 26, 'games_played': 25}
-{'default': 'Florida Panthers', 'points': 25, 'games_played': 23}
-{'default': 'Toronto Maple Leafs', 'points': 23, 'games_played': 23}
-{'default': 'Buffalo Sabres', 'points': 22, 'games_played': 23}
+{'default': 'New Jersey Devils', 'points': 33, 'games_played': 24}
+{'default': 'Tampa Bay Lightning', 'points': 32, 'games_played': 24}
+{'default': 'Carolina Hurricanes', 'points': 32, 'games_played': 24}
+{'default': 'Washington Capitals', 'points': 30, 'games_played': 25}
+{'default': 'Pittsburgh Penguins', 'points': 29, 'games_played': 23}
+{'default': 'Montreal Canadiens', 'points': 29, 'games_played': 23}
+{'default': 'Philadelphia Flyers', 'points': 29, 'games_played': 23}
+{'default': 'New York Islanders', 'points': 29, 'games_played': 25}
+{'default': 'Ottawa Senators', 'points': 28, 'games_played': 24}
+{'default': 'New York Rangers', 'points': 28, 'games_played': 26}
+{'default': 'Boston Bruins', 'points': 28, 'games_played': 26}
+{'default': 'Detroit Red Wings', 'points': 27, 'games_played': 25}
+{'default': 'Columbus Blue Jackets', 'points': 27, 'games_played': 25}
+{'default': 'Florida Panthers', 'points': 25, 'games_played': 24}
+{'default': 'Toronto Maple Leafs', 'points': 23, 'games_played': 24}
+{'default': 'Buffalo Sabres', 'points': 22, 'games_played': 24}
 Western Conference Standings ()
-{'default': 'Colorado Avalanche', 'points': 39, 'games_played': 23}
-{'default': 'Dallas Stars', 'points': 34, 'games_played': 24}
-{'default': 'Minnesota Wild', 'points': 30, 'games_played': 24}
-{'default': 'Anaheim Ducks', 'points': 29, 'games_played': 23}
-{'default': 'Vegas Golden Knights', 'points': 28, 'games_played': 23}
+{'default': 'Colorado Avalanche', 'points': 40, 'games_played': 24}
+{'default': 'Dallas Stars', 'points': 36, 'games_played': 25}
+{'default': 'Minnesota Wild', 'points': 32, 'games_played': 25}
+{'default': 'Anaheim Ducks', 'points': 31, 'games_played': 24}
+{'default': 'Los Angeles Kings', 'points': 29, 'games_played': 24}
 {'default': 'Seattle Kraken', 'points': 28, 'games_played': 23}
-{'default': 'Los Angeles Kings', 'points': 28, 'games_played': 23}
-{'default': 'Utah Mammoth', 'points': 27, 'games_played': 24}
-{'default': 'Chicago Blackhawks', 'points': 25, 'games_played': 23}
-{'default': 'San Jose Sharks', 'points': 25, 'games_played': 24}
+{'default': 'Vegas Golden Knights', 'points': 28, 'games_played': 24}
+{'default': 'Utah Mammoth', 'points': 27, 'games_played': 25}
+{'default': 'San Jose Sharks', 'points': 27, 'games_played': 25}
+{'default': 'Chicago Blackhawks', 'points': 25, 'games_played': 24}
 {'default': 'Edmonton Oilers', 'points': 25, 'games_played': 25}
-{'default': 'Winnipeg Jets', 'points': 24, 'games_played': 22}
-{'default': 'Vancouver Canucks', 'points': 22, 'games_played': 24}
-{'default': 'St. Louis Blues', 'points': 21, 'games_played': 24}
-{'default': 'Calgary Flames', 'points': 19, 'games_played': 25}
-{'default': 'Nashville Predators', 'points': 18, 'games_played': 23}
+{'default': 'Winnipeg Jets', 'points': 24, 'games_played': 23}
+{'default': 'St. Louis Blues', 'points': 23, 'games_played': 25}
+{'default': 'Vancouver Canucks', 'points': 22, 'games_played': 25}
+{'default': 'Calgary Flames', 'points': 21, 'games_played': 26}
+{'default': 'Nashville Predators', 'points': 20, 'games_played': 24}
