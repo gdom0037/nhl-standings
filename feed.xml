@@ -3,9 +3,9 @@
   <channel>
     <title>GageBot NHL Standings Feed</title>
     <link>https://gage.codes/nhl-standings</link>
-    <description>Daily NHL standings updates – 2025-12-12T05:22:45.540656Z</description>
+    <description>Daily NHL standings updates – 2025-12-13T05:21:08.262003Z</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 12 Dec 2025 05:22:45 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Dec 2025 05:21:08 GMT</lastBuildDate>
     <item>
       <title>Eastern Conference Standings ()</title>
       <link>https://gage.codes/nhl-standings/standings.txt</link>
@@ -23,19 +23,19 @@ Montreal Canadiens – 35 pts (0.389)
 New Jersey Devils – 35 pts (0.376)
 New York Rangers – 34 pts (0.354)
 Toronto Maple Leafs – 33 pts (0.367)
-Florida Panthers – 32 pts (0.368)
+Florida Panthers – 32 pts (0.356)
 Ottawa Senators – 32 pts (0.356)
 Columbus Blue Jackets – 32 pts (0.344)
-Buffalo Sabres – 28 pts (0.311)
+Buffalo Sabres – 30 pts (0.323)
 ---------------------</description>
-      <pubDate>Fri, 12 Dec 2025 05:22:45 GMT</pubDate>
+      <pubDate>Sat, 13 Dec 2025 05:21:08 GMT</pubDate>
     </item>
     <item>
       <title>Western Conference Standings ()</title>
       <link>https://gage.codes/nhl-standings/standings.txt</link>
       <description>Western Conference Standings ()
 ---------------------
-Colorado Avalanche – 49 pts (0.544)
+Colorado Avalanche – 51 pts (0.548)
 Dallas Stars – 47 pts (0.49)
 Vegas Golden Knights – 39 pts (0.433)
 Anaheim Ducks – 39 pts (0.419)
@@ -43,16 +43,16 @@ Minnesota Wild – 39 pts (0.419)
 Los Angeles Kings – 36 pts (0.4)
 Edmonton Oilers – 34 pts (0.366)
 San Jose Sharks – 33 pts (0.344)
-Chicago Blackhawks – 32 pts (0.356)
-Utah Mammoth – 31 pts (0.323)
-Seattle Kraken – 30 pts (0.357)
+Utah Mammoth – 33 pts (0.333)
+Chicago Blackhawks – 32 pts (0.344)
+St. Louis Blues – 31 pts (0.313)
+Seattle Kraken – 30 pts (0.345)
 Winnipeg Jets – 29 pts (0.322)
-St. Louis Blues – 29 pts (0.302)
 Nashville Predators – 28 pts (0.311)
 Calgary Flames – 28 pts (0.292)
-Vancouver Canucks – 25 pts (0.278)
+Vancouver Canucks – 25 pts (0.269)
 ---------------------</description>
-      <pubDate>Fri, 12 Dec 2025 05:22:45 GMT</pubDate>
+      <pubDate>Sat, 13 Dec 2025 05:21:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
