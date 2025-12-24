@@ -3,56 +3,56 @@
   <channel>
     <title>GageBot NHL Standings Feed</title>
     <link>https://gage.codes/nhl-standings</link>
-    <description>Daily NHL standings updates – 2025-12-23T05:24:26.580988Z</description>
+    <description>Daily NHL standings updates – 2025-12-24T05:24:25.226196Z</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 23 Dec 2025 05:24:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Dec 2025 05:24:25 GMT</lastBuildDate>
     <item>
       <title>Eastern Conference Standings ()</title>
       <link>https://gage.codes/nhl-standings/standings.txt</link>
       <description>Eastern Conference Standings ()
 ---------------------
-Carolina Hurricanes – 47 pts (0.448)
-Detroit Red Wings – 45 pts (0.405)
-Philadelphia Flyers – 43 pts (0.41)
-Washington Capitals – 43 pts (0.398)
+Carolina Hurricanes – 47 pts (0.435)
+Detroit Red Wings – 47 pts (0.412)
+Philadelphia Flyers – 45 pts (0.417)
+Montreal Canadiens – 45 pts (0.405)
+New York Islanders – 44 pts (0.396)
 Tampa Bay Lightning – 43 pts (0.398)
-Montreal Canadiens – 43 pts (0.398)
-New York Islanders – 42 pts (0.389)
-New Jersey Devils – 41 pts (0.38)
-Boston Bruins – 41 pts (0.369)
-Florida Panthers – 40 pts (0.381)
-Ottawa Senators – 40 pts (0.381)
-New York Rangers – 40 pts (0.351)
-Pittsburgh Penguins – 39 pts (0.371)
-Buffalo Sabres – 38 pts (0.362)
-Toronto Maple Leafs – 35 pts (0.333)
-Columbus Blue Jackets – 34 pts (0.324)
+Washington Capitals – 43 pts (0.387)
+Florida Panthers – 42 pts (0.389)
+New York Rangers – 42 pts (0.359)
+Ottawa Senators – 41 pts (0.38)
+New Jersey Devils – 41 pts (0.369)
+Boston Bruins – 41 pts (0.36)
+Buffalo Sabres – 40 pts (0.37)
+Pittsburgh Penguins – 39 pts (0.361)
+Toronto Maple Leafs – 37 pts (0.343)
+Columbus Blue Jackets – 36 pts (0.333)
 ---------------------</description>
-      <pubDate>Tue, 23 Dec 2025 05:24:26 GMT</pubDate>
+      <pubDate>Wed, 24 Dec 2025 05:24:25 GMT</pubDate>
     </item>
     <item>
       <title>Western Conference Standings ()</title>
       <link>https://gage.codes/nhl-standings/standings.txt</link>
       <description>Western Conference Standings ()
 ---------------------
-Colorado Avalanche – 59 pts (0.562)
-Dallas Stars – 55 pts (0.495)
-Minnesota Wild – 49 pts (0.441)
-Anaheim Ducks – 44 pts (0.407)
+Colorado Avalanche – 61 pts (0.565)
+Dallas Stars – 56 pts (0.491)
+Minnesota Wild – 50 pts (0.439)
+Anaheim Ducks – 44 pts (0.396)
+Edmonton Oilers – 44 pts (0.386)
 Vegas Golden Knights – 42 pts (0.412)
-Edmonton Oilers – 42 pts (0.378)
-Los Angeles Kings – 39 pts (0.382)
-Utah Mammoth – 39 pts (0.342)
+Los Angeles Kings – 39 pts (0.371)
+Utah Mammoth – 39 pts (0.333)
 San Jose Sharks – 37 pts (0.343)
+Nashville Predators – 36 pts (0.333)
 St. Louis Blues – 36 pts (0.316)
-Nashville Predators – 34 pts (0.324)
-Calgary Flames – 34 pts (0.315)
+Seattle Kraken – 34 pts (0.333)
+Calgary Flames – 34 pts (0.306)
 Winnipeg Jets – 33 pts (0.314)
 Vancouver Canucks – 33 pts (0.306)
-Seattle Kraken – 32 pts (0.323)
-Chicago Blackhawks – 32 pts (0.305)
+Chicago Blackhawks – 32 pts (0.296)
 ---------------------</description>
-      <pubDate>Tue, 23 Dec 2025 05:24:26 GMT</pubDate>
+      <pubDate>Wed, 24 Dec 2025 05:24:25 GMT</pubDate>
     </item>
   </channel>
 </rss>
