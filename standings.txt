@@ -19,15 +19,15 @@ Western Conference Standings ()
 {'default': 'Colorado Avalanche', 'points': 61, 'games_played': 36}
 {'default': 'Dallas Stars', 'points': 56, 'games_played': 38}
 {'default': 'Minnesota Wild', 'points': 50, 'games_played': 38}
+{'default': 'Vegas Golden Knights', 'points': 44, 'games_played': 35}
 {'default': 'Anaheim Ducks', 'points': 44, 'games_played': 37}
 {'default': 'Edmonton Oilers', 'points': 44, 'games_played': 38}
-{'default': 'Vegas Golden Knights', 'points': 42, 'games_played': 34}
-{'default': 'Los Angeles Kings', 'points': 39, 'games_played': 35}
+{'default': 'Los Angeles Kings', 'points': 39, 'games_played': 36}
 {'default': 'Utah Mammoth', 'points': 39, 'games_played': 39}
-{'default': 'San Jose Sharks', 'points': 37, 'games_played': 36}
+{'default': 'San Jose Sharks', 'points': 37, 'games_played': 37}
+{'default': 'Seattle Kraken', 'points': 36, 'games_played': 35}
 {'default': 'Nashville Predators', 'points': 36, 'games_played': 36}
 {'default': 'St. Louis Blues', 'points': 36, 'games_played': 38}
-{'default': 'Seattle Kraken', 'points': 34, 'games_played': 34}
 {'default': 'Calgary Flames', 'points': 34, 'games_played': 37}
 {'default': 'Winnipeg Jets', 'points': 33, 'games_played': 35}
 {'default': 'Vancouver Canucks', 'points': 33, 'games_played': 36}
