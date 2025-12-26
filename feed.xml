@@ -3,9 +3,9 @@
   <channel>
     <title>GageBot NHL Standings Feed</title>
     <link>https://gage.codes/nhl-standings</link>
-    <description>Daily NHL standings updates – 2025-12-25T05:24:15.106997Z</description>
+    <description>Daily NHL standings updates – 2025-12-26T05:22:45.455739Z</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 25 Dec 2025 05:24:15 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Dec 2025 05:22:45 GMT</lastBuildDate>
     <item>
       <title>Eastern Conference Standings ()</title>
       <link>https://gage.codes/nhl-standings/standings.txt</link>
@@ -28,7 +28,7 @@ Pittsburgh Penguins – 39 pts (0.361)
 Toronto Maple Leafs – 37 pts (0.343)
 Columbus Blue Jackets – 36 pts (0.333)
 ---------------------</description>
-      <pubDate>Thu, 25 Dec 2025 05:24:15 GMT</pubDate>
+      <pubDate>Fri, 26 Dec 2025 05:22:45 GMT</pubDate>
     </item>
     <item>
       <title>Western Conference Standings ()</title>
@@ -52,7 +52,7 @@ Winnipeg Jets – 33 pts (0.314)
 Vancouver Canucks – 33 pts (0.306)
 Chicago Blackhawks – 32 pts (0.296)
 ---------------------</description>
-      <pubDate>Thu, 25 Dec 2025 05:24:15 GMT</pubDate>
+      <pubDate>Fri, 26 Dec 2025 05:22:45 GMT</pubDate>
     </item>
   </channel>
 </rss>
