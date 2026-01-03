@@ -3,9 +3,9 @@
   <channel>
     <title>GageBot NHL Standings Feed</title>
     <link>https://gage.codes/nhl-standings</link>
-    <description>Daily NHL standings updates – 2026-01-02T05:25:59.131052Z</description>
+    <description>Daily NHL standings updates – 2026-01-03T05:21:53.344268Z</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 02 Jan 2026 05:25:59 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Jan 2026 05:21:53 GMT</lastBuildDate>
     <item>
       <title>Eastern Conference Standings ()</title>
       <link>https://gage.codes/nhl-standings/standings.txt</link>
@@ -19,16 +19,16 @@ New York Islanders – 48 pts (0.39)
 Philadelphia Flyers – 47 pts (0.402)
 Washington Capitals – 47 pts (0.382)
 Buffalo Sabres – 46 pts (0.393)
-Florida Panthers – 45 pts (0.385)
 Pittsburgh Penguins – 45 pts (0.385)
+Florida Panthers – 45 pts (0.375)
+New York Rangers – 45 pts (0.349)
 Toronto Maple Leafs – 44 pts (0.367)
 New Jersey Devils – 44 pts (0.367)
 Boston Bruins – 44 pts (0.358)
 Ottawa Senators – 43 pts (0.368)
-New York Rangers – 43 pts (0.341)
 Columbus Blue Jackets – 40 pts (0.342)
 ---------------------</description>
-      <pubDate>Fri, 02 Jan 2026 05:25:59 GMT</pubDate>
+      <pubDate>Sat, 03 Jan 2026 05:21:53 GMT</pubDate>
     </item>
     <item>
       <title>Western Conference Standings ()</title>
@@ -39,20 +39,20 @@ Colorado Avalanche – 67 pts (0.573)
 Dallas Stars – 57 pts (0.463)
 Minnesota Wild – 55 pts (0.447)
 Edmonton Oilers – 46 pts (0.374)
-Vegas Golden Knights – 45 pts (0.395)
+Vegas Golden Knights – 45 pts (0.385)
 Anaheim Ducks – 45 pts (0.375)
 San Jose Sharks – 43 pts (0.358)
+Seattle Kraken – 41 pts (0.36)
 Los Angeles Kings – 41 pts (0.35)
 Utah Mammoth – 41 pts (0.333)
-Nashville Predators – 40 pts (0.342)
 Calgary Flames – 40 pts (0.333)
-Seattle Kraken – 39 pts (0.351)
-St. Louis Blues – 38 pts (0.309)
+Nashville Predators – 40 pts (0.333)
+St. Louis Blues – 40 pts (0.317)
 Chicago Blackhawks – 37 pts (0.308)
 Vancouver Canucks – 35 pts (0.299)
 Winnipeg Jets – 34 pts (0.291)
 ---------------------</description>
-      <pubDate>Fri, 02 Jan 2026 05:25:59 GMT</pubDate>
+      <pubDate>Sat, 03 Jan 2026 05:21:53 GMT</pubDate>
     </item>
   </channel>
 </rss>

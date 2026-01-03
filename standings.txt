@@ -7,28 +7,28 @@ Eastern Conference Standings ()
 {'default': 'Philadelphia Flyers', 'points': 47, 'games_played': 39}
 {'default': 'Washington Capitals', 'points': 47, 'games_played': 41}
 {'default': 'Buffalo Sabres', 'points': 46, 'games_played': 39}
-{'default': 'Florida Panthers', 'points': 45, 'games_played': 39}
 {'default': 'Pittsburgh Penguins', 'points': 45, 'games_played': 39}
+{'default': 'Florida Panthers', 'points': 45, 'games_played': 40}
+{'default': 'New York Rangers', 'points': 45, 'games_played': 43}
 {'default': 'Toronto Maple Leafs', 'points': 44, 'games_played': 40}
 {'default': 'New Jersey Devils', 'points': 44, 'games_played': 40}
 {'default': 'Boston Bruins', 'points': 44, 'games_played': 41}
 {'default': 'Ottawa Senators', 'points': 43, 'games_played': 39}
-{'default': 'New York Rangers', 'points': 43, 'games_played': 42}
 {'default': 'Columbus Blue Jackets', 'points': 40, 'games_played': 39}
 Western Conference Standings ()
 {'default': 'Colorado Avalanche', 'points': 67, 'games_played': 39}
 {'default': 'Dallas Stars', 'points': 57, 'games_played': 41}
 {'default': 'Minnesota Wild', 'points': 55, 'games_played': 41}
 {'default': 'Edmonton Oilers', 'points': 46, 'games_played': 41}
-{'default': 'Vegas Golden Knights', 'points': 45, 'games_played': 38}
+{'default': 'Vegas Golden Knights', 'points': 45, 'games_played': 39}
 {'default': 'Anaheim Ducks', 'points': 45, 'games_played': 40}
 {'default': 'San Jose Sharks', 'points': 43, 'games_played': 40}
+{'default': 'Seattle Kraken', 'points': 41, 'games_played': 38}
 {'default': 'Los Angeles Kings', 'points': 41, 'games_played': 39}
 {'default': 'Utah Mammoth', 'points': 41, 'games_played': 41}
-{'default': 'Nashville Predators', 'points': 40, 'games_played': 39}
 {'default': 'Calgary Flames', 'points': 40, 'games_played': 40}
-{'default': 'Seattle Kraken', 'points': 39, 'games_played': 37}
-{'default': 'St. Louis Blues', 'points': 38, 'games_played': 41}
+{'default': 'Nashville Predators', 'points': 40, 'games_played': 40}
+{'default': 'St. Louis Blues', 'points': 40, 'games_played': 42}
 {'default': 'Chicago Blackhawks', 'points': 37, 'games_played': 40}
 {'default': 'Vancouver Canucks', 'points': 35, 'games_played': 39}
 {'default': 'Winnipeg Jets', 'points': 34, 'games_played': 39}
