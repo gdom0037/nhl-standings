@@ -3,9 +3,9 @@
   <channel>
     <title>GageBot NHL Standings Feed</title>
     <link>https://gage.codes/nhl-standings</link>
-    <description>Daily NHL standings updates – 2026-01-07T05:26:02.602097Z</description>
+    <description>Daily NHL standings updates – 2026-01-08T05:25:39.663878Z</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 07 Jan 2026 05:26:02 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Jan 2026 05:25:39 GMT</lastBuildDate>
     <item>
       <title>Eastern Conference Standings ()</title>
       <link>https://gage.codes/nhl-standings/standings.txt</link>
@@ -13,22 +13,22 @@
 ---------------------
 Tampa Bay Lightning – 55 pts (0.437)
 Carolina Hurricanes – 55 pts (0.426)
+Montreal Canadiens – 54 pts (0.419)
 Detroit Red Wings – 54 pts (0.409)
-Montreal Canadiens – 52 pts (0.413)
 New York Islanders – 52 pts (0.403)
 Philadelphia Flyers – 51 pts (0.415)
-Washington Capitals – 50 pts (0.388)
+Washington Capitals – 50 pts (0.379)
 Pittsburgh Penguins – 49 pts (0.398)
 Buffalo Sabres – 48 pts (0.39)
 Florida Panthers – 47 pts (0.373)
 Toronto Maple Leafs – 47 pts (0.373)
-Boston Bruins – 46 pts (0.365)
+Boston Bruins – 46 pts (0.357)
 New Jersey Devils – 46 pts (0.357)
 New York Rangers – 46 pts (0.348)
-Ottawa Senators – 45 pts (0.366)
-Columbus Blue Jackets – 43 pts (0.35)
+Ottawa Senators – 45 pts (0.357)
+Columbus Blue Jackets – 43 pts (0.341)
 ---------------------</description>
-      <pubDate>Wed, 07 Jan 2026 05:26:02 GMT</pubDate>
+      <pubDate>Thu, 08 Jan 2026 05:25:39 GMT</pubDate>
     </item>
     <item>
       <title>Western Conference Standings ()</title>
@@ -36,23 +36,23 @@ Columbus Blue Jackets – 43 pts (0.35)
       <description>Western Conference Standings ()
 ---------------------
 Colorado Avalanche – 69 pts (0.548)
-Dallas Stars – 58 pts (0.45)
+Dallas Stars – 60 pts (0.455)
 Minnesota Wild – 58 pts (0.439)
 Vegas Golden Knights – 48 pts (0.39)
 Edmonton Oilers – 48 pts (0.372)
-Seattle Kraken – 45 pts (0.375)
+Seattle Kraken – 47 pts (0.382)
 Los Angeles Kings – 45 pts (0.366)
+San Jose Sharks – 45 pts (0.357)
 Anaheim Ducks – 45 pts (0.349)
-San Jose Sharks – 43 pts (0.35)
-Utah Mammoth – 43 pts (0.333)
+Utah Mammoth – 45 pts (0.341)
 Nashville Predators – 42 pts (0.333)
 St. Louis Blues – 42 pts (0.326)
 Chicago Blackhawks – 41 pts (0.325)
-Calgary Flames – 40 pts (0.317)
+Calgary Flames – 40 pts (0.31)
 Vancouver Canucks – 37 pts (0.294)
 Winnipeg Jets – 35 pts (0.285)
 ---------------------</description>
-      <pubDate>Wed, 07 Jan 2026 05:26:02 GMT</pubDate>
+      <pubDate>Thu, 08 Jan 2026 05:25:39 GMT</pubDate>
     </item>
   </channel>
 </rss>
