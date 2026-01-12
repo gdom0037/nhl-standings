@@ -6,29 +6,29 @@ Eastern Conference Standings ()
 {'default': 'New York Islanders', 'points': 55, 'games_played': 45}
 {'default': 'Buffalo Sabres', 'points': 52, 'games_played': 43}
 {'default': 'Philadelphia Flyers', 'points': 52, 'games_played': 43}
-{'default': 'Washington Capitals', 'points': 52, 'games_played': 45}
-{'default': 'Pittsburgh Penguins', 'points': 51, 'games_played': 43}
+{'default': 'Washington Capitals', 'points': 52, 'games_played': 46}
+{'default': 'Boston Bruins', 'points': 52, 'games_played': 46}
 {'default': 'Toronto Maple Leafs', 'points': 51, 'games_played': 44}
-{'default': 'Boston Bruins', 'points': 50, 'games_played': 45}
+{'default': 'Pittsburgh Penguins', 'points': 51, 'games_played': 44}
 {'default': 'Florida Panthers', 'points': 49, 'games_played': 44}
-{'default': 'New Jersey Devils', 'points': 46, 'games_played': 44}
+{'default': 'New Jersey Devils', 'points': 46, 'games_played': 45}
 {'default': 'New York Rangers', 'points': 46, 'games_played': 46}
 {'default': 'Ottawa Senators', 'points': 45, 'games_played': 44}
-{'default': 'Columbus Blue Jackets', 'points': 43, 'games_played': 44}
+{'default': 'Columbus Blue Jackets', 'points': 45, 'games_played': 45}
 Western Conference Standings ()
 {'default': 'Colorado Avalanche', 'points': 73, 'games_played': 44}
 {'default': 'Dallas Stars', 'points': 61, 'games_played': 45}
 {'default': 'Minnesota Wild', 'points': 61, 'games_played': 46}
-{'default': 'Vegas Golden Knights', 'points': 50, 'games_played': 42}
-{'default': 'Edmonton Oilers', 'points': 50, 'games_played': 44}
-{'default': 'San Jose Sharks', 'points': 49, 'games_played': 44}
+{'default': 'Vegas Golden Knights', 'points': 54, 'games_played': 44}
+{'default': 'Edmonton Oilers', 'points': 51, 'games_played': 45}
+{'default': 'San Jose Sharks', 'points': 49, 'games_played': 45}
 {'default': 'Seattle Kraken', 'points': 48, 'games_played': 43}
-{'default': 'Utah Mammoth', 'points': 47, 'games_played': 45}
-{'default': 'Los Angeles Kings', 'points': 46, 'games_played': 43}
+{'default': 'Los Angeles Kings', 'points': 48, 'games_played': 44}
+{'default': 'Utah Mammoth', 'points': 48, 'games_played': 46}
+{'default': 'Nashville Predators', 'points': 46, 'games_played': 45}
 {'default': 'Chicago Blackhawks', 'points': 45, 'games_played': 45}
 {'default': 'Anaheim Ducks', 'points': 45, 'games_played': 45}
-{'default': 'Nashville Predators', 'points': 44, 'games_played': 44}
-{'default': 'St. Louis Blues', 'points': 42, 'games_played': 45}
 {'default': 'Calgary Flames', 'points': 42, 'games_played': 45}
-{'default': 'Winnipeg Jets', 'points': 37, 'games_played': 43}
+{'default': 'St. Louis Blues', 'points': 42, 'games_played': 46}
+{'default': 'Winnipeg Jets', 'points': 39, 'games_played': 44}
 {'default': 'Vancouver Canucks', 'points': 37, 'games_played': 44}
