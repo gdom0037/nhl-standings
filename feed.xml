@@ -3,56 +3,56 @@
   <channel>
     <title>GageBot NHL Standings Feed</title>
     <link>https://gage.codes/nhl-standings</link>
-    <description>Daily NHL standings updates – 2026-01-29T05:44:01.492499Z</description>
+    <description>Daily NHL standings updates – 2026-01-30T05:47:42.887158Z</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 29 Jan 2026 05:44:01 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jan 2026 05:47:42 GMT</lastBuildDate>
     <item>
       <title>Eastern Conference Standings ()</title>
       <link>https://gage.codes/nhl-standings/standings.txt</link>
       <description>Eastern Conference Standings ()
 ---------------------
-Tampa Bay Lightning – 70 pts (0.458)
-Carolina Hurricanes – 69 pts (0.442)
-Detroit Red Wings – 69 pts (0.426)
-Buffalo Sabres – 65 pts (0.417)
-Montreal Canadiens – 65 pts (0.409)
-Boston Bruins – 65 pts (0.401)
-Pittsburgh Penguins – 63 pts (0.412)
-New York Islanders – 63 pts (0.396)
-Florida Panthers – 59 pts (0.378)
-Philadelphia Flyers – 57 pts (0.365)
+Tampa Bay Lightning – 72 pts (0.462)
+Carolina Hurricanes – 71 pts (0.447)
+Detroit Red Wings – 70 pts (0.424)
+Buffalo Sabres – 67 pts (0.421)
+Montreal Canadiens – 67 pts (0.414)
+Boston Bruins – 67 pts (0.406)
+Pittsburgh Penguins – 65 pts (0.417)
+New York Islanders – 65 pts (0.401)
+Florida Panthers – 59 pts (0.371)
+Washington Capitals – 59 pts (0.358)
+New Jersey Devils – 58 pts (0.358)
 Columbus Blue Jackets – 57 pts (0.365)
 Ottawa Senators – 57 pts (0.358)
-Toronto Maple Leafs – 57 pts (0.358)
-Washington Capitals – 57 pts (0.352)
-New Jersey Devils – 56 pts (0.352)
-New York Rangers – 50 pts (0.309)
+Philadelphia Flyers – 57 pts (0.358)
+Toronto Maple Leafs – 57 pts (0.352)
+New York Rangers – 50 pts (0.303)
 ---------------------</description>
-      <pubDate>Thu, 29 Jan 2026 05:44:01 GMT</pubDate>
+      <pubDate>Fri, 30 Jan 2026 05:47:42 GMT</pubDate>
     </item>
     <item>
       <title>Western Conference Standings ()</title>
       <link>https://gage.codes/nhl-standings/standings.txt</link>
       <description>Western Conference Standings ()
 ---------------------
-Colorado Avalanche – 79 pts (0.516)
-Minnesota Wild – 70 pts (0.432)
+Colorado Avalanche – 79 pts (0.506)
+Minnesota Wild – 72 pts (0.436)
 Dallas Stars – 69 pts (0.434)
+Edmonton Oilers – 64 pts (0.388)
 Vegas Golden Knights – 63 pts (0.404)
-Edmonton Oilers – 62 pts (0.383)
-Utah Mammoth – 60 pts (0.377)
-Anaheim Ducks – 59 pts (0.371)
-San Jose Sharks – 57 pts (0.373)
-Los Angeles Kings – 57 pts (0.373)
-Seattle Kraken – 57 pts (0.365)
-Nashville Predators – 53 pts (0.34)
-Chicago Blackhawks – 51 pts (0.321)
-Winnipeg Jets – 49 pts (0.314)
-Calgary Flames – 48 pts (0.308)
-St. Louis Blues – 47 pts (0.296)
-Vancouver Canucks – 39 pts (0.245)
+Utah Mammoth – 60 pts (0.37)
+Seattle Kraken – 59 pts (0.371)
+Anaheim Ducks – 59 pts (0.364)
+San Jose Sharks – 58 pts (0.372)
+Los Angeles Kings – 57 pts (0.365)
+Nashville Predators – 54 pts (0.34)
+Chicago Blackhawks – 51 pts (0.315)
+Winnipeg Jets – 49 pts (0.308)
+St. Louis Blues – 49 pts (0.302)
+Calgary Flames – 48 pts (0.302)
+Vancouver Canucks – 41 pts (0.253)
 ---------------------</description>
-      <pubDate>Thu, 29 Jan 2026 05:44:01 GMT</pubDate>
+      <pubDate>Fri, 30 Jan 2026 05:47:42 GMT</pubDate>
     </item>
   </channel>
 </rss>
