@@ -3,9 +3,9 @@
   <channel>
     <title>GageBot NHL Standings Feed</title>
     <link>https://gage.codes/nhl-standings</link>
-    <description>Daily NHL standings updates – 2026-02-20T05:54:07.851866Z</description>
+    <description>Daily NHL standings updates – 2026-02-21T05:41:37.844883Z</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 20 Feb 2026 05:54:07 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Feb 2026 05:41:37 GMT</lastBuildDate>
     <item>
       <title>Eastern Conference Standings ()</title>
       <link>https://gage.codes/nhl-standings/standings.txt</link>
@@ -28,7 +28,7 @@ Florida Panthers – 61 pts (0.357)
 New Jersey Devils – 58 pts (0.339)
 New York Rangers – 50 pts (0.292)
 ---------------------</description>
-      <pubDate>Fri, 20 Feb 2026 05:54:07 GMT</pubDate>
+      <pubDate>Sat, 21 Feb 2026 05:41:37 GMT</pubDate>
     </item>
     <item>
       <title>Western Conference Standings ()</title>
@@ -52,7 +52,7 @@ Calgary Flames – 52 pts (0.31)
 St. Louis Blues – 49 pts (0.287)
 Vancouver Canucks – 42 pts (0.246)
 ---------------------</description>
-      <pubDate>Fri, 20 Feb 2026 05:54:07 GMT</pubDate>
+      <pubDate>Sat, 21 Feb 2026 05:41:37 GMT</pubDate>
     </item>
   </channel>
 </rss>
