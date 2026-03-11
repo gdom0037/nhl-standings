@@ -3,56 +3,56 @@
   <channel>
     <title>GageBot NHL Standings Feed</title>
     <link>https://gage.codes/nhl-standings</link>
-    <description>Daily NHL standings updates – 2026-03-10T05:46:32.714131Z</description>
+    <description>Daily NHL standings updates – 2026-03-11T05:49:58.863841Z</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 10 Mar 2026 05:46:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 05:49:58 GMT</lastBuildDate>
     <item>
       <title>Eastern Conference Standings ()</title>
       <link>https://gage.codes/nhl-standings/standings.txt</link>
       <description>Eastern Conference Standings ()
 ---------------------
-Carolina Hurricanes – 86 pts (0.455)
-Buffalo Sabres – 84 pts (0.438)
-Tampa Bay Lightning – 82 pts (0.441)
-Detroit Red Wings – 79 pts (0.411)
-Montreal Canadiens – 78 pts (0.419)
-Pittsburgh Penguins – 78 pts (0.413)
-New York Islanders – 77 pts (0.401)
-Boston Bruins – 76 pts (0.402)
-Columbus Blue Jackets – 74 pts (0.392)
+Carolina Hurricanes – 88 pts (0.458)
+Buffalo Sabres – 86 pts (0.441)
+Tampa Bay Lightning – 82 pts (0.434)
+Montreal Canadiens – 80 pts (0.423)
+Pittsburgh Penguins – 79 pts (0.411)
+Detroit Red Wings – 79 pts (0.405)
+New York Islanders – 79 pts (0.405)
+Boston Bruins – 78 pts (0.406)
+Columbus Blue Jackets – 76 pts (0.396)
 Ottawa Senators – 73 pts (0.386)
 Washington Capitals – 71 pts (0.364)
 Philadelphia Flyers – 69 pts (0.365)
+Florida Panthers – 67 pts (0.349)
 New Jersey Devils – 66 pts (0.344)
-Florida Panthers – 65 pts (0.344)
-Toronto Maple Leafs – 65 pts (0.339)
-New York Rangers – 58 pts (0.307)
+Toronto Maple Leafs – 65 pts (0.333)
+New York Rangers – 60 pts (0.312)
 ---------------------</description>
-      <pubDate>Tue, 10 Mar 2026 05:46:32 GMT</pubDate>
+      <pubDate>Wed, 11 Mar 2026 05:49:58 GMT</pubDate>
     </item>
     <item>
       <title>Western Conference Standings ()</title>
       <link>https://gage.codes/nhl-standings/standings.txt</link>
       <description>Western Conference Standings ()
 ---------------------
-Colorado Avalanche – 95 pts (0.511)
-Dallas Stars – 88 pts (0.466)
-Minnesota Wild – 85 pts (0.443)
-Anaheim Ducks – 73 pts (0.386)
-Utah Mammoth – 73 pts (0.38)
-Vegas Golden Knights – 72 pts (0.375)
-Edmonton Oilers – 70 pts (0.365)
-Seattle Kraken – 67 pts (0.36)
-San Jose Sharks – 66 pts (0.361)
-Los Angeles Kings – 66 pts (0.349)
-Nashville Predators – 64 pts (0.339)
-Winnipeg Jets – 62 pts (0.333)
-St. Louis Blues – 59 pts (0.312)
+Colorado Avalanche – 95 pts (0.503)
+Dallas Stars – 90 pts (0.469)
+Minnesota Wild – 87 pts (0.446)
+Anaheim Ducks – 75 pts (0.391)
+Utah Mammoth – 73 pts (0.374)
+Edmonton Oilers – 72 pts (0.369)
+Vegas Golden Knights – 72 pts (0.369)
+Seattle Kraken – 67 pts (0.354)
+Los Angeles Kings – 67 pts (0.349)
+San Jose Sharks – 66 pts (0.355)
+Nashville Predators – 66 pts (0.344)
+Winnipeg Jets – 62 pts (0.328)
+St. Louis Blues – 60 pts (0.312)
 Chicago Blackhawks – 59 pts (0.307)
-Calgary Flames – 57 pts (0.302)
+Calgary Flames – 57 pts (0.297)
 Vancouver Canucks – 46 pts (0.24)
 ---------------------</description>
-      <pubDate>Tue, 10 Mar 2026 05:46:32 GMT</pubDate>
+      <pubDate>Wed, 11 Mar 2026 05:49:58 GMT</pubDate>
     </item>
   </channel>
 </rss>
