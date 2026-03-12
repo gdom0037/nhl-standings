@@ -3,9 +3,9 @@
   <channel>
     <title>GageBot NHL Standings Feed</title>
     <link>https://gage.codes/nhl-standings</link>
-    <description>Daily NHL standings updates – 2026-03-11T05:49:58.863841Z</description>
+    <description>Daily NHL standings updates – 2026-03-12T05:51:40.726868Z</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 11 Mar 2026 05:49:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 05:51:40 GMT</lastBuildDate>
     <item>
       <title>Eastern Conference Standings ()</title>
       <link>https://gage.codes/nhl-standings/standings.txt</link>
@@ -14,21 +14,21 @@
 Carolina Hurricanes – 88 pts (0.458)
 Buffalo Sabres – 86 pts (0.441)
 Tampa Bay Lightning – 82 pts (0.434)
-Montreal Canadiens – 80 pts (0.423)
+Montreal Canadiens – 82 pts (0.427)
 Pittsburgh Penguins – 79 pts (0.411)
 Detroit Red Wings – 79 pts (0.405)
 New York Islanders – 79 pts (0.405)
 Boston Bruins – 78 pts (0.406)
 Columbus Blue Jackets – 76 pts (0.396)
-Ottawa Senators – 73 pts (0.386)
-Washington Capitals – 71 pts (0.364)
-Philadelphia Flyers – 69 pts (0.365)
+Ottawa Senators – 73 pts (0.38)
+Philadelphia Flyers – 71 pts (0.37)
+Washington Capitals – 71 pts (0.359)
 Florida Panthers – 67 pts (0.349)
 New Jersey Devils – 66 pts (0.344)
 Toronto Maple Leafs – 65 pts (0.333)
 New York Rangers – 60 pts (0.312)
 ---------------------</description>
-      <pubDate>Wed, 11 Mar 2026 05:49:58 GMT</pubDate>
+      <pubDate>Thu, 12 Mar 2026 05:51:40 GMT</pubDate>
     </item>
     <item>
       <title>Western Conference Standings ()</title>
@@ -52,7 +52,7 @@ Chicago Blackhawks – 59 pts (0.307)
 Calgary Flames – 57 pts (0.297)
 Vancouver Canucks – 46 pts (0.24)
 ---------------------</description>
-      <pubDate>Wed, 11 Mar 2026 05:49:58 GMT</pubDate>
+      <pubDate>Thu, 12 Mar 2026 05:51:40 GMT</pubDate>
     </item>
   </channel>
 </rss>

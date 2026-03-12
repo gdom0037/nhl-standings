@@ -2,15 +2,15 @@ Eastern Conference Standings ()
 {'default': 'Carolina Hurricanes', 'points': 88, 'games_played': 64}
 {'default': 'Buffalo Sabres', 'points': 86, 'games_played': 65}
 {'default': 'Tampa Bay Lightning', 'points': 82, 'games_played': 63}
-{'default': 'Montreal Canadiens', 'points': 80, 'games_played': 63}
+{'default': 'Montreal Canadiens', 'points': 82, 'games_played': 64}
 {'default': 'Pittsburgh Penguins', 'points': 79, 'games_played': 64}
 {'default': 'Detroit Red Wings', 'points': 79, 'games_played': 65}
 {'default': 'New York Islanders', 'points': 79, 'games_played': 65}
 {'default': 'Boston Bruins', 'points': 78, 'games_played': 64}
 {'default': 'Columbus Blue Jackets', 'points': 76, 'games_played': 64}
-{'default': 'Ottawa Senators', 'points': 73, 'games_played': 63}
-{'default': 'Washington Capitals', 'points': 71, 'games_played': 65}
-{'default': 'Philadelphia Flyers', 'points': 69, 'games_played': 63}
+{'default': 'Ottawa Senators', 'points': 73, 'games_played': 64}
+{'default': 'Philadelphia Flyers', 'points': 71, 'games_played': 64}
+{'default': 'Washington Capitals', 'points': 71, 'games_played': 66}
 {'default': 'Florida Panthers', 'points': 67, 'games_played': 64}
 {'default': 'New Jersey Devils', 'points': 66, 'games_played': 64}
 {'default': 'Toronto Maple Leafs', 'points': 65, 'games_played': 65}
