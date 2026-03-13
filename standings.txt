@@ -1,34 +1,34 @@
 Eastern Conference Standings ()
-{'default': 'Carolina Hurricanes', 'points': 88, 'games_played': 64}
-{'default': 'Buffalo Sabres', 'points': 86, 'games_played': 65}
-{'default': 'Tampa Bay Lightning', 'points': 82, 'games_played': 63}
+{'default': 'Carolina Hurricanes', 'points': 88, 'games_played': 65}
+{'default': 'Buffalo Sabres', 'points': 86, 'games_played': 66}
+{'default': 'Tampa Bay Lightning', 'points': 84, 'games_played': 64}
 {'default': 'Montreal Canadiens', 'points': 82, 'games_played': 64}
-{'default': 'Pittsburgh Penguins', 'points': 79, 'games_played': 64}
-{'default': 'Detroit Red Wings', 'points': 79, 'games_played': 65}
+{'default': 'Pittsburgh Penguins', 'points': 79, 'games_played': 65}
 {'default': 'New York Islanders', 'points': 79, 'games_played': 65}
-{'default': 'Boston Bruins', 'points': 78, 'games_played': 64}
-{'default': 'Columbus Blue Jackets', 'points': 76, 'games_played': 64}
+{'default': 'Detroit Red Wings', 'points': 79, 'games_played': 66}
+{'default': 'Boston Bruins', 'points': 78, 'games_played': 65}
+{'default': 'Columbus Blue Jackets', 'points': 77, 'games_played': 65}
 {'default': 'Ottawa Senators', 'points': 73, 'games_played': 64}
-{'default': 'Philadelphia Flyers', 'points': 71, 'games_played': 64}
-{'default': 'Washington Capitals', 'points': 71, 'games_played': 66}
-{'default': 'Florida Panthers', 'points': 67, 'games_played': 64}
-{'default': 'New Jersey Devils', 'points': 66, 'games_played': 64}
-{'default': 'Toronto Maple Leafs', 'points': 65, 'games_played': 65}
-{'default': 'New York Rangers', 'points': 60, 'games_played': 64}
+{'default': 'Philadelphia Flyers', 'points': 73, 'games_played': 65}
+{'default': 'Washington Capitals', 'points': 73, 'games_played': 67}
+{'default': 'Florida Panthers', 'points': 69, 'games_played': 65}
+{'default': 'Toronto Maple Leafs', 'points': 67, 'games_played': 66}
+{'default': 'New Jersey Devils', 'points': 66, 'games_played': 65}
+{'default': 'New York Rangers', 'points': 62, 'games_played': 65}
 Western Conference Standings ()
-{'default': 'Colorado Avalanche', 'points': 95, 'games_played': 63}
-{'default': 'Dallas Stars', 'points': 90, 'games_played': 64}
-{'default': 'Minnesota Wild', 'points': 87, 'games_played': 65}
-{'default': 'Anaheim Ducks', 'points': 75, 'games_played': 64}
-{'default': 'Utah Mammoth', 'points': 73, 'games_played': 65}
-{'default': 'Edmonton Oilers', 'points': 72, 'games_played': 65}
-{'default': 'Vegas Golden Knights', 'points': 72, 'games_played': 65}
-{'default': 'Seattle Kraken', 'points': 67, 'games_played': 63}
+{'default': 'Colorado Avalanche', 'points': 97, 'games_played': 64}
+{'default': 'Dallas Stars', 'points': 92, 'games_played': 65}
+{'default': 'Minnesota Wild', 'points': 88, 'games_played': 66}
+{'default': 'Anaheim Ducks', 'points': 75, 'games_played': 65}
+{'default': 'Utah Mammoth', 'points': 74, 'games_played': 66}
+{'default': 'Vegas Golden Knights', 'points': 74, 'games_played': 66}
+{'default': 'Edmonton Oilers', 'points': 72, 'games_played': 66}
+{'default': 'San Jose Sharks', 'points': 68, 'games_played': 63}
+{'default': 'Seattle Kraken', 'points': 67, 'games_played': 64}
 {'default': 'Los Angeles Kings', 'points': 67, 'games_played': 64}
-{'default': 'San Jose Sharks', 'points': 66, 'games_played': 62}
-{'default': 'Nashville Predators', 'points': 66, 'games_played': 64}
-{'default': 'Winnipeg Jets', 'points': 62, 'games_played': 63}
-{'default': 'St. Louis Blues', 'points': 60, 'games_played': 64}
-{'default': 'Chicago Blackhawks', 'points': 59, 'games_played': 64}
-{'default': 'Calgary Flames', 'points': 57, 'games_played': 64}
-{'default': 'Vancouver Canucks', 'points': 46, 'games_played': 64}
+{'default': 'Nashville Predators', 'points': 67, 'games_played': 65}
+{'default': 'Winnipeg Jets', 'points': 62, 'games_played': 64}
+{'default': 'St. Louis Blues', 'points': 62, 'games_played': 65}
+{'default': 'Chicago Blackhawks', 'points': 61, 'games_played': 65}
+{'default': 'Calgary Flames', 'points': 59, 'games_played': 65}
+{'default': 'Vancouver Canucks', 'points': 48, 'games_played': 65}
