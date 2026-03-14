@@ -3,9 +3,9 @@
   <channel>
     <title>GageBot NHL Standings Feed</title>
     <link>https://gage.codes/nhl-standings</link>
-    <description>Daily NHL standings updates – 2026-03-13T05:49:31.129208Z</description>
+    <description>Daily NHL standings updates – 2026-03-14T05:46:14.514163Z</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 13 Mar 2026 05:49:31 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2026 05:46:14 GMT</lastBuildDate>
     <item>
       <title>Eastern Conference Standings ()</title>
       <link>https://gage.codes/nhl-standings/standings.txt</link>
@@ -16,8 +16,8 @@ Buffalo Sabres – 86 pts (0.434)
 Tampa Bay Lightning – 84 pts (0.438)
 Montreal Canadiens – 82 pts (0.427)
 Pittsburgh Penguins – 79 pts (0.405)
-New York Islanders – 79 pts (0.405)
 Detroit Red Wings – 79 pts (0.399)
+New York Islanders – 79 pts (0.399)
 Boston Bruins – 78 pts (0.4)
 Columbus Blue Jackets – 77 pts (0.395)
 Ottawa Senators – 73 pts (0.38)
@@ -28,7 +28,7 @@ Toronto Maple Leafs – 67 pts (0.338)
 New Jersey Devils – 66 pts (0.338)
 New York Rangers – 62 pts (0.318)
 ---------------------</description>
-      <pubDate>Fri, 13 Mar 2026 05:49:31 GMT</pubDate>
+      <pubDate>Sat, 14 Mar 2026 05:46:14 GMT</pubDate>
     </item>
     <item>
       <title>Western Conference Standings ()</title>
@@ -41,18 +41,18 @@ Minnesota Wild – 88 pts (0.444)
 Anaheim Ducks – 75 pts (0.385)
 Utah Mammoth – 74 pts (0.374)
 Vegas Golden Knights – 74 pts (0.374)
-Edmonton Oilers – 72 pts (0.364)
+Edmonton Oilers – 73 pts (0.363)
+Los Angeles Kings – 69 pts (0.354)
 San Jose Sharks – 68 pts (0.36)
 Seattle Kraken – 67 pts (0.349)
-Los Angeles Kings – 67 pts (0.349)
 Nashville Predators – 67 pts (0.344)
+St. Louis Blues – 64 pts (0.323)
 Winnipeg Jets – 62 pts (0.323)
-St. Louis Blues – 62 pts (0.318)
 Chicago Blackhawks – 61 pts (0.313)
 Calgary Flames – 59 pts (0.303)
 Vancouver Canucks – 48 pts (0.246)
 ---------------------</description>
-      <pubDate>Fri, 13 Mar 2026 05:49:31 GMT</pubDate>
+      <pubDate>Sat, 14 Mar 2026 05:46:14 GMT</pubDate>
     </item>
   </channel>
 </rss>
