@@ -1,25 +1,25 @@
 Eastern Conference Standings ()
-{'default': 'Carolina Hurricanes', 'points': 90, 'games_played': 67}
+{'default': 'Carolina Hurricanes', 'points': 92, 'games_played': 68}
 {'default': 'Buffalo Sabres', 'points': 90, 'games_played': 68}
 {'default': 'Tampa Bay Lightning', 'points': 86, 'games_played': 66}
 {'default': 'Montreal Canadiens', 'points': 84, 'games_played': 67}
-{'default': 'Pittsburgh Penguins', 'points': 83, 'games_played': 67}
+{'default': 'Pittsburgh Penguins', 'points': 84, 'games_played': 68}
 {'default': 'New York Islanders', 'points': 83, 'games_played': 68}
 {'default': 'Boston Bruins', 'points': 82, 'games_played': 68}
 {'default': 'Detroit Red Wings', 'points': 82, 'games_played': 68}
 {'default': 'Columbus Blue Jackets', 'points': 81, 'games_played': 67}
-{'default': 'Ottawa Senators', 'points': 77, 'games_played': 66}
-{'default': 'Philadelphia Flyers', 'points': 74, 'games_played': 66}
-{'default': 'Washington Capitals', 'points': 74, 'games_played': 68}
-{'default': 'New Jersey Devils', 'points': 70, 'games_played': 67}
+{'default': 'Ottawa Senators', 'points': 77, 'games_played': 67}
+{'default': 'Philadelphia Flyers', 'points': 76, 'games_played': 67}
+{'default': 'Washington Capitals', 'points': 76, 'games_played': 69}
+{'default': 'New Jersey Devils', 'points': 72, 'games_played': 68}
 {'default': 'Toronto Maple Leafs', 'points': 70, 'games_played': 69}
 {'default': 'Florida Panthers', 'points': 69, 'games_played': 67}
-{'default': 'New York Rangers', 'points': 64, 'games_played': 67}
+{'default': 'New York Rangers', 'points': 64, 'games_played': 68}
 Western Conference Standings ()
-{'default': 'Colorado Avalanche', 'points': 97, 'games_played': 66}
-{'default': 'Dallas Stars', 'points': 94, 'games_played': 67}
+{'default': 'Colorado Avalanche', 'points': 98, 'games_played': 67}
+{'default': 'Dallas Stars', 'points': 96, 'games_played': 68}
 {'default': 'Minnesota Wild', 'points': 90, 'games_played': 69}
-{'default': 'Anaheim Ducks', 'points': 77, 'games_played': 67}
+{'default': 'Anaheim Ducks', 'points': 78, 'games_played': 68}
 {'default': 'Edmonton Oilers', 'points': 77, 'games_played': 69}
 {'default': 'Utah Mammoth', 'points': 76, 'games_played': 68}
 {'default': 'Vegas Golden Knights', 'points': 76, 'games_played': 68}
@@ -28,7 +28,7 @@ Western Conference Standings ()
 {'default': 'San Jose Sharks', 'points': 70, 'games_played': 66}
 {'default': 'Nashville Predators', 'points': 69, 'games_played': 67}
 {'default': 'Winnipeg Jets', 'points': 67, 'games_played': 67}
-{'default': 'St. Louis Blues', 'points': 64, 'games_played': 67}
+{'default': 'St. Louis Blues', 'points': 65, 'games_played': 68}
 {'default': 'Chicago Blackhawks', 'points': 62, 'games_played': 67}
-{'default': 'Calgary Flames', 'points': 59, 'games_played': 67}
+{'default': 'Calgary Flames', 'points': 61, 'games_played': 68}
 {'default': 'Vancouver Canucks', 'points': 50, 'games_played': 67}
