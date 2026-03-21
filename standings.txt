@@ -1,5 +1,5 @@
 Eastern Conference Standings ()
-{'default': 'Carolina Hurricanes', 'points': 92, 'games_played': 68}
+{'default': 'Carolina Hurricanes', 'points': 94, 'games_played': 69}
 {'default': 'Buffalo Sabres', 'points': 92, 'games_played': 69}
 {'default': 'Tampa Bay Lightning', 'points': 88, 'games_played': 67}
 {'default': 'Pittsburgh Penguins', 'points': 84, 'games_played': 68}
@@ -10,17 +10,17 @@ Eastern Conference Standings ()
 {'default': 'New York Islanders', 'points': 83, 'games_played': 69}
 {'default': 'Ottawa Senators', 'points': 79, 'games_played': 68}
 {'default': 'Philadelphia Flyers', 'points': 78, 'games_played': 68}
-{'default': 'Washington Capitals', 'points': 76, 'games_played': 69}
-{'default': 'New Jersey Devils', 'points': 72, 'games_played': 68}
-{'default': 'Florida Panthers', 'points': 71, 'games_played': 68}
-{'default': 'Toronto Maple Leafs', 'points': 70, 'games_played': 69}
+{'default': 'Washington Capitals', 'points': 78, 'games_played': 70}
+{'default': 'New Jersey Devils', 'points': 72, 'games_played': 69}
+{'default': 'Florida Panthers', 'points': 71, 'games_played': 69}
+{'default': 'Toronto Maple Leafs', 'points': 71, 'games_played': 70}
 {'default': 'New York Rangers', 'points': 64, 'games_played': 69}
 Western Conference Standings ()
-{'default': 'Colorado Avalanche', 'points': 98, 'games_played': 67}
+{'default': 'Colorado Avalanche', 'points': 100, 'games_played': 68}
 {'default': 'Dallas Stars', 'points': 96, 'games_played': 68}
 {'default': 'Minnesota Wild', 'points': 90, 'games_played': 70}
-{'default': 'Anaheim Ducks', 'points': 78, 'games_played': 68}
-{'default': 'Utah Mammoth', 'points': 78, 'games_played': 69}
+{'default': 'Anaheim Ducks', 'points': 80, 'games_played': 69}
+{'default': 'Utah Mammoth', 'points': 78, 'games_played': 70}
 {'default': 'Edmonton Oilers', 'points': 77, 'games_played': 70}
 {'default': 'Vegas Golden Knights', 'points': 76, 'games_played': 69}
 {'default': 'Los Angeles Kings', 'points': 72, 'games_played': 68}
@@ -29,6 +29,6 @@ Western Conference Standings ()
 {'default': 'San Jose Sharks', 'points': 70, 'games_played': 67}
 {'default': 'Winnipeg Jets', 'points': 67, 'games_played': 68}
 {'default': 'St. Louis Blues', 'points': 65, 'games_played': 68}
-{'default': 'Chicago Blackhawks', 'points': 64, 'games_played': 68}
-{'default': 'Calgary Flames', 'points': 61, 'games_played': 68}
+{'default': 'Chicago Blackhawks', 'points': 64, 'games_played': 69}
+{'default': 'Calgary Flames', 'points': 63, 'games_played': 69}
 {'default': 'Vancouver Canucks', 'points': 50, 'games_played': 68}
