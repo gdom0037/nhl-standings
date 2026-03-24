@@ -8,13 +8,13 @@ Eastern Conference Standings ()
 {'default': 'Columbus Blue Jackets', 'points': 85, 'games_played': 70}
 {'default': 'New York Islanders', 'points': 85, 'games_played': 71}
 {'default': 'Detroit Red Wings', 'points': 84, 'games_played': 70}
-{'default': 'Ottawa Senators', 'points': 81, 'games_played': 69}
+{'default': 'Ottawa Senators', 'points': 83, 'games_played': 70}
 {'default': 'Philadelphia Flyers', 'points': 80, 'games_played': 69}
 {'default': 'Washington Capitals', 'points': 79, 'games_played': 71}
 {'default': 'New Jersey Devils', 'points': 72, 'games_played': 69}
 {'default': 'Florida Panthers', 'points': 71, 'games_played': 69}
 {'default': 'Toronto Maple Leafs', 'points': 71, 'games_played': 71}
-{'default': 'New York Rangers', 'points': 65, 'games_played': 70}
+{'default': 'New York Rangers', 'points': 65, 'games_played': 71}
 Western Conference Standings ()
 {'default': 'Colorado Avalanche', 'points': 102, 'games_played': 69}
 {'default': 'Dallas Stars', 'points': 97, 'games_played': 70}
