@@ -1,20 +1,20 @@
 Eastern Conference Standings ()
+{'default': 'New York Rangers', 'points': 65, 'games_played': 72}
 {'default': 'Carolina Hurricanes', 'points': 96, 'games_played': 71}
-{'default': 'Buffalo Sabres', 'points': 95, 'games_played': 71}
+{'default': 'Buffalo Sabres', 'points': 96, 'games_played': 72}
 {'default': 'Tampa Bay Lightning', 'points': 93, 'games_played': 70}
 {'default': 'Montreal Canadiens', 'points': 88, 'games_played': 70}
+{'default': 'Boston Bruins', 'points': 88, 'games_played': 72}
 {'default': 'Columbus Blue Jackets', 'points': 87, 'games_played': 71}
-{'default': 'Boston Bruins', 'points': 86, 'games_played': 71}
 {'default': 'Pittsburgh Penguins', 'points': 86, 'games_played': 71}
 {'default': 'Ottawa Senators', 'points': 85, 'games_played': 71}
 {'default': 'New York Islanders', 'points': 85, 'games_played': 72}
 {'default': 'Detroit Red Wings', 'points': 84, 'games_played': 71}
 {'default': 'Philadelphia Flyers', 'points': 80, 'games_played': 70}
 {'default': 'Washington Capitals', 'points': 79, 'games_played': 72}
+{'default': 'Toronto Maple Leafs', 'points': 75, 'games_played': 73}
 {'default': 'New Jersey Devils', 'points': 74, 'games_played': 70}
 {'default': 'Florida Panthers', 'points': 73, 'games_played': 70}
-{'default': 'Toronto Maple Leafs', 'points': 73, 'games_played': 72}
-{'default': 'New York Rangers', 'points': 65, 'games_played': 71}
 Western Conference Standings ()
 {'default': 'Colorado Avalanche', 'points': 104, 'games_played': 70}
 {'default': 'Dallas Stars', 'points': 97, 'games_played': 71}
