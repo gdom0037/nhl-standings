@@ -1,7 +1,7 @@
 Eastern Conference Standings ()
-{'default': 'New York Rangers', 'points': 65, 'games_played': 72}
+{'default': 'New York Rangers', 'points': 67, 'games_played': 73}
 {'default': 'Carolina Hurricanes', 'points': 96, 'games_played': 71}
-{'default': 'Buffalo Sabres', 'points': 96, 'games_played': 72}
+{'default': 'Buffalo Sabres', 'points': 96, 'games_played': 73}
 {'default': 'Tampa Bay Lightning', 'points': 94, 'games_played': 71}
 {'default': 'Montreal Canadiens', 'points': 90, 'games_played': 71}
 {'default': 'Boston Bruins', 'points': 88, 'games_played': 72}
@@ -9,7 +9,7 @@ Eastern Conference Standings ()
 {'default': 'Columbus Blue Jackets', 'points': 87, 'games_played': 72}
 {'default': 'New York Islanders', 'points': 87, 'games_played': 73}
 {'default': 'Ottawa Senators', 'points': 86, 'games_played': 72}
-{'default': 'Detroit Red Wings', 'points': 84, 'games_played': 71}
+{'default': 'Detroit Red Wings', 'points': 86, 'games_played': 72}
 {'default': 'Philadelphia Flyers', 'points': 82, 'games_played': 71}
 {'default': 'Washington Capitals', 'points': 81, 'games_played': 73}
 {'default': 'New Jersey Devils', 'points': 76, 'games_played': 71}
@@ -31,4 +31,4 @@ Western Conference Standings ()
 {'default': 'San Jose Sharks', 'points': 71, 'games_played': 70}
 {'default': 'St. Louis Blues', 'points': 71, 'games_played': 71}
 {'default': 'Calgary Flames', 'points': 68, 'games_played': 72}
-{'default': 'Chicago Blackhawks', 'points': 67, 'games_played': 72}
+{'default': 'Chicago Blackhawks', 'points': 67, 'games_played': 73}
