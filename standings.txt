@@ -6,11 +6,11 @@ Eastern Conference Standings ()
 {'default': 'Montreal Canadiens', 'points': 98, 'games_played': 75}
 {'default': 'Boston Bruins', 'points': 94, 'games_played': 76}
 {'default': 'Pittsburgh Penguins', 'points': 92, 'games_played': 76}
-{'default': 'New York Islanders', 'points': 89, 'games_played': 76}
+{'default': 'New York Islanders', 'points': 89, 'games_played': 77}
 {'default': 'Ottawa Senators', 'points': 88, 'games_played': 75}
 {'default': 'Detroit Red Wings', 'points': 88, 'games_played': 75}
 {'default': 'Columbus Blue Jackets', 'points': 88, 'games_played': 76}
-{'default': 'Philadelphia Flyers', 'points': 86, 'games_played': 75}
+{'default': 'Philadelphia Flyers', 'points': 88, 'games_played': 76}
 {'default': 'Washington Capitals', 'points': 85, 'games_played': 76}
 {'default': 'New Jersey Devils', 'points': 80, 'games_played': 75}
 {'default': 'Florida Panthers', 'points': 77, 'games_played': 75}
@@ -21,14 +21,14 @@ Western Conference Standings ()
 {'default': 'Minnesota Wild', 'points': 96, 'games_played': 75}
 {'default': 'Chicago Blackhawks', 'points': 68, 'games_played': 76}
 {'default': 'Vancouver Canucks', 'points': 52, 'games_played': 75}
-{'default': 'Anaheim Ducks', 'points': 87, 'games_played': 75}
 {'default': 'Edmonton Oilers', 'points': 87, 'games_played': 76}
+{'default': 'Anaheim Ducks', 'points': 87, 'games_played': 76}
 {'default': 'Utah Mammoth', 'points': 84, 'games_played': 75}
 {'default': 'Vegas Golden Knights', 'points': 84, 'games_played': 76}
 {'default': 'San Jose Sharks', 'points': 79, 'games_played': 74}
 {'default': 'Nashville Predators', 'points': 79, 'games_played': 75}
 {'default': 'Los Angeles Kings', 'points': 79, 'games_played': 75}
+{'default': 'St. Louis Blues', 'points': 76, 'games_played': 75}
 {'default': 'Winnipeg Jets', 'points': 76, 'games_played': 75}
 {'default': 'Seattle Kraken', 'points': 75, 'games_played': 74}
-{'default': 'St. Louis Blues', 'points': 74, 'games_played': 74}
 {'default': 'Calgary Flames', 'points': 70, 'games_played': 75}

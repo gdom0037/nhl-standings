@@ -3,9 +3,9 @@
   <channel>
     <title>GageBot NHL Standings Feed</title>
     <link>https://gage.codes/nhl-standings</link>
-    <description>Daily NHL standings updates – 2026-04-03T06:11:36.308933Z</description>
+    <description>Daily NHL standings updates – 2026-04-04T05:56:58.995718Z</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 03 Apr 2026 06:11:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Apr 2026 05:56:58 GMT</lastBuildDate>
     <item>
       <title>Eastern Conference Standings ()</title>
       <link>https://gage.codes/nhl-standings/standings.txt</link>
@@ -18,17 +18,17 @@ Buffalo Sabres – 100 pts (0.439)
 Montreal Canadiens – 98 pts (0.436)
 Boston Bruins – 94 pts (0.412)
 Pittsburgh Penguins – 92 pts (0.404)
-New York Islanders – 89 pts (0.39)
+New York Islanders – 89 pts (0.385)
 Ottawa Senators – 88 pts (0.391)
 Detroit Red Wings – 88 pts (0.391)
 Columbus Blue Jackets – 88 pts (0.386)
-Philadelphia Flyers – 86 pts (0.382)
+Philadelphia Flyers – 88 pts (0.386)
 Washington Capitals – 85 pts (0.373)
 New Jersey Devils – 80 pts (0.356)
 Florida Panthers – 77 pts (0.342)
 Toronto Maple Leafs – 77 pts (0.338)
 ---------------------</description>
-      <pubDate>Fri, 03 Apr 2026 06:11:36 GMT</pubDate>
+      <pubDate>Sat, 04 Apr 2026 05:56:58 GMT</pubDate>
     </item>
     <item>
       <title>Western Conference Standings ()</title>
@@ -40,19 +40,19 @@ Dallas Stars – 102 pts (0.447)
 Minnesota Wild – 96 pts (0.427)
 Chicago Blackhawks – 68 pts (0.298)
 Vancouver Canucks – 52 pts (0.231)
-Anaheim Ducks – 87 pts (0.387)
 Edmonton Oilers – 87 pts (0.382)
+Anaheim Ducks – 87 pts (0.382)
 Utah Mammoth – 84 pts (0.373)
 Vegas Golden Knights – 84 pts (0.368)
 San Jose Sharks – 79 pts (0.356)
 Nashville Predators – 79 pts (0.351)
 Los Angeles Kings – 79 pts (0.351)
+St. Louis Blues – 76 pts (0.338)
 Winnipeg Jets – 76 pts (0.338)
 Seattle Kraken – 75 pts (0.338)
-St. Louis Blues – 74 pts (0.333)
 Calgary Flames – 70 pts (0.311)
 ---------------------</description>
-      <pubDate>Fri, 03 Apr 2026 06:11:36 GMT</pubDate>
+      <pubDate>Sat, 04 Apr 2026 05:56:58 GMT</pubDate>
     </item>
   </channel>
 </rss>
