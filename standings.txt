@@ -1,7 +1,7 @@
 Eastern Conference Standings ()
 {'default': 'Carolina Hurricanes', 'points': 104, 'games_played': 77}
-{'default': 'Tampa Bay Lightning', 'points': 102, 'games_played': 76}
-{'default': 'Buffalo Sabres', 'points': 100, 'games_played': 77}
+{'default': 'Tampa Bay Lightning', 'points': 102, 'games_played': 77}
+{'default': 'Buffalo Sabres', 'points': 102, 'games_played': 78}
 {'default': 'Montreal Canadiens', 'points': 100, 'games_played': 77}
 {'default': 'Toronto Maple Leafs', 'points': 78, 'games_played': 77}
 {'default': 'Florida Panthers', 'points': 77, 'games_played': 77}
@@ -19,16 +19,16 @@ Western Conference Standings ()
 {'default': 'Colorado Avalanche', 'points': 110, 'games_played': 76}
 {'default': 'Dallas Stars', 'points': 102, 'games_played': 77}
 {'default': 'Minnesota Wild', 'points': 100, 'games_played': 77}
-{'default': 'Chicago Blackhawks', 'points': 70, 'games_played': 77}
+{'default': 'Chicago Blackhawks', 'points': 70, 'games_played': 78}
 {'default': 'Vancouver Canucks', 'points': 52, 'games_played': 76}
 {'default': 'Edmonton Oilers', 'points': 87, 'games_played': 77}
 {'default': 'Anaheim Ducks', 'points': 87, 'games_played': 77}
 {'default': 'Utah Mammoth', 'points': 86, 'games_played': 76}
 {'default': 'Vegas Golden Knights', 'points': 86, 'games_played': 77}
-{'default': 'Nashville Predators', 'points': 81, 'games_played': 76}
-{'default': 'Los Angeles Kings', 'points': 81, 'games_played': 76}
-{'default': 'San Jose Sharks', 'points': 79, 'games_played': 75}
+{'default': 'Los Angeles Kings', 'points': 83, 'games_played': 77}
+{'default': 'Nashville Predators', 'points': 82, 'games_played': 77}
+{'default': 'San Jose Sharks', 'points': 81, 'games_played': 76}
+{'default': 'Winnipeg Jets', 'points': 80, 'games_played': 77}
 {'default': 'St. Louis Blues', 'points': 78, 'games_played': 76}
-{'default': 'Winnipeg Jets', 'points': 78, 'games_played': 76}
-{'default': 'Seattle Kraken', 'points': 75, 'games_played': 75}
+{'default': 'Seattle Kraken', 'points': 75, 'games_played': 76}
 {'default': 'Calgary Flames', 'points': 72, 'games_played': 76}
