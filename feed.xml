@@ -3,9 +3,9 @@
   <channel>
     <title>GageBot NHL Standings Feed</title>
     <link>https://gage.codes/nhl-standings</link>
-    <description>Daily NHL standings updates – 2026-04-10T06:52:44.007670Z</description>
+    <description>Daily NHL standings updates – 2026-04-11T06:01:21.425628Z</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 10 Apr 2026 06:52:44 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Apr 2026 06:01:21 GMT</lastBuildDate>
     <item>
       <title>Eastern Conference Standings ()</title>
       <link>https://gage.codes/nhl-standings/standings.txt</link>
@@ -28,7 +28,7 @@ New York Islanders – 91 pts (0.384)
 Columbus Blue Jackets – 90 pts (0.38)
 Washington Capitals – 89 pts (0.376)
 ---------------------</description>
-      <pubDate>Fri, 10 Apr 2026 06:52:44 GMT</pubDate>
+      <pubDate>Sat, 11 Apr 2026 06:01:21 GMT</pubDate>
     </item>
     <item>
       <title>Western Conference Standings ()</title>
@@ -52,7 +52,7 @@ San Jose Sharks – 81 pts (0.346)
 St. Louis Blues – 78 pts (0.333)
 Seattle Kraken – 77 pts (0.329)
 ---------------------</description>
-      <pubDate>Fri, 10 Apr 2026 06:52:44 GMT</pubDate>
+      <pubDate>Sat, 11 Apr 2026 06:01:21 GMT</pubDate>
     </item>
   </channel>
 </rss>
