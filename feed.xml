@@ -3,9 +3,9 @@
   <channel>
     <title>GageBot NHL Standings Feed</title>
     <link>https://gage.codes/nhl-standings</link>
-    <description>Daily NHL standings updates – 2026-04-16T06:56:05.553182Z</description>
+    <description>Daily NHL standings updates – 2026-04-17T06:56:50.698754Z</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 16 Apr 2026 06:56:05 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 06:56:50 GMT</lastBuildDate>
     <item>
       <title>Eastern Conference Standings ()</title>
       <link>https://gage.codes/nhl-standings/standings.txt</link>
@@ -28,7 +28,7 @@ Florida Panthers – 84 pts (0.341)
 Toronto Maple Leafs – 78 pts (0.317)
 New York Rangers – 77 pts (0.313)
 ---------------------</description>
-      <pubDate>Thu, 16 Apr 2026 06:56:05 GMT</pubDate>
+      <pubDate>Fri, 17 Apr 2026 06:56:50 GMT</pubDate>
     </item>
     <item>
       <title>Western Conference Standings ()</title>
@@ -38,21 +38,21 @@ New York Rangers – 77 pts (0.313)
 Vegas Golden Knights – 95 pts (0.386)
 Dallas Stars – 112 pts (0.455)
 Minnesota Wild – 104 pts (0.423)
-Utah Mammoth – 92 pts (0.379)
-Edmonton Oilers – 91 pts (0.374)
-Anaheim Ducks – 90 pts (0.37)
-Los Angeles Kings – 90 pts (0.37)
-Nashville Predators – 86 pts (0.354)
-St. Louis Blues – 84 pts (0.346)
-San Jose Sharks – 84 pts (0.346)
-Winnipeg Jets – 82 pts (0.337)
-Seattle Kraken – 79 pts (0.325)
-Calgary Flames – 75 pts (0.309)
+Edmonton Oilers – 93 pts (0.378)
+Utah Mammoth – 92 pts (0.374)
+Anaheim Ducks – 92 pts (0.374)
+Los Angeles Kings – 90 pts (0.366)
+St. Louis Blues – 86 pts (0.35)
+Nashville Predators – 86 pts (0.35)
+San Jose Sharks – 86 pts (0.35)
+Winnipeg Jets – 82 pts (0.333)
+Seattle Kraken – 79 pts (0.321)
+Calgary Flames – 77 pts (0.313)
 Chicago Blackhawks – 72 pts (0.293)
-Vancouver Canucks – 58 pts (0.239)
-Colorado Avalanche – 119 pts (0.49)
+Vancouver Canucks – 58 pts (0.236)
+Colorado Avalanche – 121 pts (0.492)
 ---------------------</description>
-      <pubDate>Thu, 16 Apr 2026 06:56:05 GMT</pubDate>
+      <pubDate>Fri, 17 Apr 2026 06:56:50 GMT</pubDate>
     </item>
   </channel>
 </rss>

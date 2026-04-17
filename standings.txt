@@ -19,16 +19,16 @@ Western Conference Standings ()
 {'default': 'Vegas Golden Knights', 'points': 95, 'games_played': 82}
 {'default': 'Dallas Stars', 'points': 112, 'games_played': 82}
 {'default': 'Minnesota Wild', 'points': 104, 'games_played': 82}
-{'default': 'Utah Mammoth', 'points': 92, 'games_played': 81}
-{'default': 'Edmonton Oilers', 'points': 91, 'games_played': 81}
-{'default': 'Anaheim Ducks', 'points': 90, 'games_played': 81}
-{'default': 'Los Angeles Kings', 'points': 90, 'games_played': 81}
-{'default': 'Nashville Predators', 'points': 86, 'games_played': 81}
-{'default': 'St. Louis Blues', 'points': 84, 'games_played': 81}
-{'default': 'San Jose Sharks', 'points': 84, 'games_played': 81}
-{'default': 'Winnipeg Jets', 'points': 82, 'games_played': 81}
-{'default': 'Seattle Kraken', 'points': 79, 'games_played': 81}
-{'default': 'Calgary Flames', 'points': 75, 'games_played': 81}
+{'default': 'Edmonton Oilers', 'points': 93, 'games_played': 82}
+{'default': 'Utah Mammoth', 'points': 92, 'games_played': 82}
+{'default': 'Anaheim Ducks', 'points': 92, 'games_played': 82}
+{'default': 'Los Angeles Kings', 'points': 90, 'games_played': 82}
+{'default': 'St. Louis Blues', 'points': 86, 'games_played': 82}
+{'default': 'Nashville Predators', 'points': 86, 'games_played': 82}
+{'default': 'San Jose Sharks', 'points': 86, 'games_played': 82}
+{'default': 'Winnipeg Jets', 'points': 82, 'games_played': 82}
+{'default': 'Seattle Kraken', 'points': 79, 'games_played': 82}
+{'default': 'Calgary Flames', 'points': 77, 'games_played': 82}
 {'default': 'Chicago Blackhawks', 'points': 72, 'games_played': 82}
-{'default': 'Vancouver Canucks', 'points': 58, 'games_played': 81}
-{'default': 'Colorado Avalanche', 'points': 119, 'games_played': 81}
+{'default': 'Vancouver Canucks', 'points': 58, 'games_played': 82}
+{'default': 'Colorado Avalanche', 'points': 121, 'games_played': 82}
