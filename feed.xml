@@ -3,9 +3,9 @@
   <channel>
     <title>GageBot NHL Standings Feed</title>
     <link>https://gage.codes/nhl-standings</link>
-    <description>Daily NHL standings updates – 2026-06-30T08:29:43.411376Z</description>
+    <description>Daily NHL standings updates – 2026-07-01T08:49:07.062710Z</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 30 Jun 2026 08:29:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 08:49:07 GMT</lastBuildDate>
     <item>
       <title>Eastern Conference Standings ()</title>
       <link>https://gage.codes/nhl-standings/standings.txt</link>
@@ -28,7 +28,7 @@ Florida Panthers – 84 pts (0.341)
 Toronto Maple Leafs – 78 pts (0.317)
 New York Rangers – 77 pts (0.313)
 ---------------------</description>
-      <pubDate>Tue, 30 Jun 2026 08:29:43 GMT</pubDate>
+      <pubDate>Wed, 01 Jul 2026 08:49:07 GMT</pubDate>
     </item>
     <item>
       <title>Western Conference Standings ()</title>
@@ -52,7 +52,7 @@ Chicago Blackhawks – 72 pts (0.293)
 Vancouver Canucks – 58 pts (0.236)
 Colorado Avalanche – 121 pts (0.492)
 ---------------------</description>
-      <pubDate>Tue, 30 Jun 2026 08:29:43 GMT</pubDate>
+      <pubDate>Wed, 01 Jul 2026 08:49:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
