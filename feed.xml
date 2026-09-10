@@ -3,56 +3,56 @@
   <channel>
     <title>GageBot NHL Standings Feed</title>
     <link>https://gage.codes/nhl-standings</link>
-    <description>Daily NHL standings updates – 2026-09-09T09:24:49.767901Z</description>
+    <description>Daily NHL standings updates – 2026-09-10T09:24:43.680343Z</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 09 Sep 2026 09:24:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 09:24:43 GMT</lastBuildDate>
     <item>
       <title>Eastern Conference Standings ()</title>
       <link>https://gage.codes/nhl-standings/standings.txt</link>
       <description>Eastern Conference Standings ()
 ---------------------
-Carolina Hurricanes – 113 pts (0.459)
-Buffalo Sabres – 109 pts (0.443)
-Tampa Bay Lightning – 106 pts (0.431)
-Montreal Canadiens – 106 pts (0.431)
-Boston Bruins – 100 pts (0.407)
-Ottawa Senators – 99 pts (0.402)
-Pittsburgh Penguins – 98 pts (0.398)
-Philadelphia Flyers – 98 pts (0.398)
-Washington Capitals – 95 pts (0.386)
-Detroit Red Wings – 92 pts (0.374)
-Columbus Blue Jackets – 92 pts (0.374)
-New York Islanders – 91 pts (0.37)
-New Jersey Devils – 87 pts (0.354)
-Florida Panthers – 84 pts (0.341)
-Toronto Maple Leafs – 78 pts (0.317)
-New York Rangers – 77 pts (0.313)
+Boston Bruins – 0 pts (0.0)
+Buffalo Sabres – 0 pts (0.0)
+Detroit Red Wings – 0 pts (0.0)
+Carolina Hurricanes – 0 pts (0.0)
+Montreal Canadiens – 0 pts (0.0)
+New Jersey Devils – 0 pts (0.0)
+New York Islanders – 0 pts (0.0)
+New York Rangers – 0 pts (0.0)
+Ottawa Senators – 0 pts (0.0)
+Philadelphia Flyers – 0 pts (0.0)
+Pittsburgh Penguins – 0 pts (0.0)
+Tampa Bay Lightning – 0 pts (0.0)
+Toronto Maple Leafs – 0 pts (0.0)
+Washington Capitals – 0 pts (0.0)
+Florida Panthers – 0 pts (0.0)
+Columbus Blue Jackets – 0 pts (0.0)
 ---------------------</description>
-      <pubDate>Wed, 09 Sep 2026 09:24:49 GMT</pubDate>
+      <pubDate>Thu, 10 Sep 2026 09:24:43 GMT</pubDate>
     </item>
     <item>
       <title>Western Conference Standings ()</title>
       <link>https://gage.codes/nhl-standings/standings.txt</link>
       <description>Western Conference Standings ()
 ---------------------
-Vegas Golden Knights – 95 pts (0.386)
-Dallas Stars – 112 pts (0.455)
-Minnesota Wild – 104 pts (0.423)
-Edmonton Oilers – 93 pts (0.378)
-Utah Mammoth – 92 pts (0.374)
-Anaheim Ducks – 92 pts (0.374)
-Los Angeles Kings – 90 pts (0.366)
-St. Louis Blues – 86 pts (0.35)
-Nashville Predators – 86 pts (0.35)
-San Jose Sharks – 86 pts (0.35)
-Winnipeg Jets – 82 pts (0.333)
-Seattle Kraken – 79 pts (0.321)
-Calgary Flames – 77 pts (0.313)
-Chicago Blackhawks – 72 pts (0.293)
-Vancouver Canucks – 58 pts (0.236)
-Colorado Avalanche – 121 pts (0.492)
+Calgary Flames – 0 pts (0.0)
+Chicago Blackhawks – 0 pts (0.0)
+Edmonton Oilers – 0 pts (0.0)
+Los Angeles Kings – 0 pts (0.0)
+Dallas Stars – 0 pts (0.0)
+Colorado Avalanche – 0 pts (0.0)
+San Jose Sharks – 0 pts (0.0)
+St. Louis Blues – 0 pts (0.0)
+Vancouver Canucks – 0 pts (0.0)
+Anaheim Ducks – 0 pts (0.0)
+Nashville Predators – 0 pts (0.0)
+Winnipeg Jets – 0 pts (0.0)
+Minnesota Wild – 0 pts (0.0)
+Vegas Golden Knights – 0 pts (0.0)
+Seattle Kraken – 0 pts (0.0)
+Utah Mammoth – 0 pts (0.0)
 ---------------------</description>
-      <pubDate>Wed, 09 Sep 2026 09:24:49 GMT</pubDate>
+      <pubDate>Thu, 10 Sep 2026 09:24:43 GMT</pubDate>
     </item>
   </channel>
 </rss>
