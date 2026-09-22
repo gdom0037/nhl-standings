@@ -3,32 +3,32 @@
   <channel>
     <title>GageBot NHL Standings Feed</title>
     <link>https://gage.codes/nhl-standings</link>
-    <description>Daily NHL standings updates – 2026-09-21T10:25:31.003838Z</description>
+    <description>Daily NHL standings updates – 2026-09-22T09:38:52.901090Z</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 21 Sep 2026 10:25:31 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 09:38:52 GMT</lastBuildDate>
     <item>
       <title>Eastern Conference Standings ()</title>
       <link>https://gage.codes/nhl-standings/standings.txt</link>
       <description>Eastern Conference Standings ()
 ---------------------
-Montreal Canadiens – 4 pts (0.667)
+Montreal Canadiens – 6 pts (0.667)
+New Jersey Devils – 4 pts (0.667)
+Washington Capitals – 3 pts (0.5)
 Florida Panthers – 2 pts (0.667)
-New Jersey Devils – 2 pts (0.667)
+Pittsburgh Penguins – 2 pts (0.667)
 Tampa Bay Lightning – 2 pts (0.667)
+Columbus Blue Jackets – 2 pts (0.667)
 Boston Bruins – 2 pts (0.667)
-Washington Capitals – 1 pts (0.333)
+Ottawa Senators – 1 pts (0.333)
+Detroit Red Wings – 1 pts (0.333)
 Toronto Maple Leafs – 1 pts (0.167)
-Detroit Red Wings – 0 pts (0.0)
-Buffalo Sabres – 0 pts (0.0)
-Ottawa Senators – 0 pts (0.0)
 New York Rangers – 0 pts (0.0)
-Pittsburgh Penguins – 0 pts (0.0)
-Columbus Blue Jackets – 0 pts (0.0)
-Philadelphia Flyers – 0 pts (0.0)
 New York Islanders – 0 pts (0.0)
+Buffalo Sabres – 0 pts (0.0)
 Carolina Hurricanes – 0 pts (0.0)
+Philadelphia Flyers – 0 pts (0.0)
 ---------------------</description>
-      <pubDate>Mon, 21 Sep 2026 10:25:31 GMT</pubDate>
+      <pubDate>Tue, 22 Sep 2026 09:38:52 GMT</pubDate>
     </item>
     <item>
       <title>Western Conference Standings ()</title>
@@ -36,23 +36,23 @@ Carolina Hurricanes – 0 pts (0.0)
       <description>Western Conference Standings ()
 ---------------------
 Seattle Kraken – 4 pts (0.667)
+Dallas Stars – 4 pts (0.667)
+Chicago Blackhawks – 3 pts (0.5)
+Minnesota Wild – 3 pts (0.5)
 Anaheim Ducks – 2 pts (0.667)
-Colorado Avalanche – 2 pts (0.667)
 Edmonton Oilers – 2 pts (0.667)
 Vegas Golden Knights – 2 pts (0.667)
-Dallas Stars – 2 pts (0.667)
-Minnesota Wild – 2 pts (0.667)
-Chicago Blackhawks – 1 pts (0.333)
-St. Louis Blues – 0 pts (0.0)
+Colorado Avalanche – 2 pts (0.333)
+Winnipeg Jets – 2 pts (0.333)
 Nashville Predators – 0 pts (0.0)
 Vancouver Canucks – 0 pts (0.0)
 Calgary Flames – 0 pts (0.0)
 Los Angeles Kings – 0 pts (0.0)
 Utah Mammoth – 0 pts (0.0)
-Winnipeg Jets – 0 pts (0.0)
 San Jose Sharks – 0 pts (0.0)
+St. Louis Blues – 0 pts (0.0)
 ---------------------</description>
-      <pubDate>Mon, 21 Sep 2026 10:25:31 GMT</pubDate>
+      <pubDate>Tue, 22 Sep 2026 09:38:52 GMT</pubDate>
     </item>
   </channel>
 </rss>
