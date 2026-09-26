@@ -3,30 +3,30 @@ Eastern Conference Standings ()
 {'default': 'Florida Panthers', 'points': 5, 'games_played': 3}
 {'default': 'New Jersey Devils', 'points': 5, 'games_played': 3}
 {'default': 'Detroit Red Wings', 'points': 5, 'games_played': 3}
+{'default': 'Washington Capitals', 'points': 5, 'games_played': 3}
 {'default': 'Toronto Maple Leafs', 'points': 5, 'games_played': 4}
-{'default': 'Boston Bruins', 'points': 4, 'games_played': 3}
+{'default': 'Boston Bruins', 'points': 5, 'games_played': 4}
 {'default': 'Columbus Blue Jackets', 'points': 4, 'games_played': 3}
 {'default': 'Carolina Hurricanes', 'points': 4, 'games_played': 3}
-{'default': 'Washington Capitals', 'points': 3, 'games_played': 2}
+{'default': 'New York Rangers', 'points': 4, 'games_played': 4}
 {'default': 'Buffalo Sabres', 'points': 3, 'games_played': 3}
 {'default': 'Tampa Bay Lightning', 'points': 3, 'games_played': 3}
-{'default': 'New York Islanders', 'points': 2, 'games_played': 2}
 {'default': 'Pittsburgh Penguins', 'points': 2, 'games_played': 3}
 {'default': 'Philadelphia Flyers', 'points': 2, 'games_played': 3}
-{'default': 'New York Rangers', 'points': 2, 'games_played': 3}
+{'default': 'New York Islanders', 'points': 2, 'games_played': 3}
 {'default': 'Ottawa Senators', 'points': 1, 'games_played': 3}
 Western Conference Standings ()
-{'default': 'Dallas Stars', 'points': 6, 'games_played': 3}
+{'default': 'Dallas Stars', 'points': 8, 'games_played': 4}
 {'default': 'Edmonton Oilers', 'points': 6, 'games_played': 3}
 {'default': 'Seattle Kraken', 'points': 6, 'games_played': 3}
 {'default': 'Vegas Golden Knights', 'points': 6, 'games_played': 3}
+{'default': 'Colorado Avalanche', 'points': 4, 'games_played': 3}
 {'default': 'San Jose Sharks', 'points': 3, 'games_played': 3}
 {'default': 'Calgary Flames', 'points': 3, 'games_played': 3}
 {'default': 'Utah Mammoth', 'points': 3, 'games_played': 3}
-{'default': 'Winnipeg Jets', 'points': 3, 'games_played': 3}
 {'default': 'Chicago Blackhawks', 'points': 3, 'games_played': 3}
-{'default': 'Minnesota Wild', 'points': 3, 'games_played': 3}
-{'default': 'Colorado Avalanche', 'points': 2, 'games_played': 2}
+{'default': 'Winnipeg Jets', 'points': 3, 'games_played': 4}
+{'default': 'Minnesota Wild', 'points': 3, 'games_played': 4}
 {'default': 'St. Louis Blues', 'points': 2, 'games_played': 3}
 {'default': 'Los Angeles Kings', 'points': 2, 'games_played': 3}
 {'default': 'Anaheim Ducks', 'points': 2, 'games_played': 3}
