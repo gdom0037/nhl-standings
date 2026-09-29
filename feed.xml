@@ -3,9 +3,9 @@
   <channel>
     <title>GageBot NHL Standings Feed</title>
     <link>https://gage.codes/nhl-standings</link>
-    <description>Daily NHL standings updates – 2026-09-28T11:28:15.060145Z</description>
+    <description>Daily NHL standings updates – 2026-09-29T11:09:28.197168Z</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 28 Sep 2026 11:28:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 11:09:28 GMT</lastBuildDate>
     <item>
       <title>Eastern Conference Standings ()</title>
       <link>https://gage.codes/nhl-standings/standings.txt</link>
@@ -28,7 +28,7 @@ Washington Capitals – 0 pts (0.0)
 Florida Panthers – 0 pts (0.0)
 Columbus Blue Jackets – 0 pts (0.0)
 ---------------------</description>
-      <pubDate>Mon, 28 Sep 2026 11:28:15 GMT</pubDate>
+      <pubDate>Tue, 29 Sep 2026 11:09:28 GMT</pubDate>
     </item>
     <item>
       <title>Western Conference Standings ()</title>
@@ -52,7 +52,7 @@ Vegas Golden Knights – 0 pts (0.0)
 Seattle Kraken – 0 pts (0.0)
 Utah Mammoth – 0 pts (0.0)
 ---------------------</description>
-      <pubDate>Mon, 28 Sep 2026 11:28:15 GMT</pubDate>
+      <pubDate>Tue, 29 Sep 2026 11:09:28 GMT</pubDate>
     </item>
   </channel>
 </rss>
