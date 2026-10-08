@@ -2,27 +2,27 @@ Eastern Conference Standings ()
 {'default': 'New York Rangers', 'points': 8, 'games_played': 5}
 {'default': 'Florida Panthers', 'points': 6, 'games_played': 4}
 {'default': 'Carolina Hurricanes', 'points': 5, 'games_played': 4}
+{'default': 'Washington Capitals', 'points': 4, 'games_played': 3}
 {'default': 'Ottawa Senators', 'points': 4, 'games_played': 3}
 {'default': 'Tampa Bay Lightning', 'points': 4, 'games_played': 3}
-{'default': 'Pittsburgh Penguins', 'points': 4, 'games_played': 3}
 {'default': 'Buffalo Sabres', 'points': 4, 'games_played': 3}
+{'default': 'Pittsburgh Penguins', 'points': 4, 'games_played': 4}
 {'default': 'Toronto Maple Leafs', 'points': 4, 'games_played': 4}
 {'default': 'Boston Bruins', 'points': 4, 'games_played': 4}
 {'default': 'Montreal Canadiens', 'points': 3, 'games_played': 3}
-{'default': 'Washington Capitals', 'points': 2, 'games_played': 2}
 {'default': 'Columbus Blue Jackets', 'points': 2, 'games_played': 2}
 {'default': 'New York Islanders', 'points': 2, 'games_played': 3}
 {'default': 'Detroit Red Wings', 'points': 2, 'games_played': 3}
 {'default': 'New Jersey Devils', 'points': 2, 'games_played': 3}
 {'default': 'Philadelphia Flyers', 'points': 2, 'games_played': 4}
 Western Conference Standings ()
+{'default': 'Edmonton Oilers', 'points': 7, 'games_played': 4}
+{'default': 'Winnipeg Jets', 'points': 7, 'games_played': 4}
 {'default': 'Utah Mammoth', 'points': 6, 'games_played': 4}
 {'default': 'Vegas Golden Knights', 'points': 6, 'games_played': 4}
 {'default': 'Minnesota Wild', 'points': 5, 'games_played': 3}
-{'default': 'Edmonton Oilers', 'points': 5, 'games_played': 3}
-{'default': 'Winnipeg Jets', 'points': 5, 'games_played': 3}
-{'default': 'Colorado Avalanche', 'points': 4, 'games_played': 2}
-{'default': 'Anaheim Ducks', 'points': 4, 'games_played': 2}
+{'default': 'Colorado Avalanche', 'points': 4, 'games_played': 3}
+{'default': 'Anaheim Ducks', 'points': 4, 'games_played': 3}
 {'default': 'San Jose Sharks', 'points': 4, 'games_played': 3}
 {'default': 'Seattle Kraken', 'points': 4, 'games_played': 4}
 {'default': 'Vancouver Canucks', 'points': 4, 'games_played': 4}
